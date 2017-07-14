@@ -9,3 +9,4 @@ Alternatively raise a suggestion on [issues](https://github.com/sfmcdg/awesome-s
 
 ## Salesforce Marketing Cloud Developer Tips
 
+We are just setting up and developer tips will start to be added shortly. In the meantime to follow along with awesome Salesforce Marketing Cloud Developer tips visit the the hashtag [#SFMCDevTip](https://twitter.com/hashtag/SFMCDevTip).
