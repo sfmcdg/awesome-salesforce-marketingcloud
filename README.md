@@ -3,8 +3,8 @@ Useful resources for working and developing with Salesforce Marketing Cloud
 
 ## How to contribute
 
-On Twitter share and like awesome [#salesforce #marketingcloud](https://twitter.com/search?q=%23salesforce%20%23marketingcloud) tweets and the most popular will be featured here.
+Make a suggestion on [issues](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/issues)
 
 ## Salesforce Marketing Cloud Developer Tips
 
-We are just setting up and links will be added shortly. In the meantime to follow along with awesome Salesforce Marketing Cloud Developer visit [#salesforce #marketingcloud](https://twitter.com/search?q=%23salesforce%20%23marketingcloud).
+We are just setting up and links will be added shortly.
