@@ -4,11 +4,16 @@
 
 ## Table of Contents
 
+* [Testing](#testing)
 * [Tools](#tools)
+
+## Testing
+
+* [Litmus](https://litmus.com/) - test and track emails
 
 ## Tools
 
-* [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - Collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
+* [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
 
 ## How to contribute
 
