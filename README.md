@@ -15,6 +15,12 @@
 
 * [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
 
+---
+
+## More Awesome
+
+* [Awesome Emails](https://github.com/jonathandion/awesome-emails) - an awesome list of resources to build better emails.
+
 ## How to contribute
 
 We are just setting up and links will be added shortly.
