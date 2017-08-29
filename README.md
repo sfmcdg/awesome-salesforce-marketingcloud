@@ -12,4 +12,4 @@
 
 ## How to contribute
 
-We are just setting up and links will be added shortly. Make a suggestion on [issues](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/issues) or in [LinkedIn SFMC Dev Group](https://www.linkedin.com/groups/7059991/7059991-6308431256036134912).
+We are just setting up and links will be added shortly. Make a link or topic suggestion on [issues](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/issues) or in [LinkedIn SFMC Dev Group](https://www.linkedin.com/groups/7059991/7059991-6308431256036134912).
