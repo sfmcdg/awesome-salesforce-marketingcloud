@@ -11,6 +11,8 @@
 
 ## Tools
 
+* [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - Collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
+
 We are just setting up and links will be added shortly. Make a suggestion on [issues](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/issues)
 
 ## Articles
