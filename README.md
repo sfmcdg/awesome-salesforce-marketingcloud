@@ -13,6 +13,7 @@
 
 ## Tools
 
+* [Salesforce Marketing Cloud Developer Tools (Google Chrome Extension)](https://markus.codes/sfmc-chrome-devtools) - Google Chrome Extension that makes life easier for Salesforce Marketing Cloud users
 * [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
 
 ---
