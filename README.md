@@ -4,8 +4,13 @@
 
 ## Table of Contents
 
+* [Learning](#learning)
 * [Testing](#testing)
 * [Tools](#tools)
+
+## Learning
+
+* [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud) - great forum to get help with Salesforce Marketing Cloud question and answers - quick tip: include `[marketing-cloud]` in search search query
 
 ## Testing
 
