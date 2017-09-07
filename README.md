@@ -5,6 +5,7 @@
 ## Table of Contents
 
 * [Learning](#learning)
+* [Resources](#resources]
 * [Testing](#testing)
 * [Tools](#tools)
 
@@ -12,13 +13,17 @@
 
 * [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud) - great forum to get help with Salesforce Marketing Cloud question and answers - quick tip: include `[marketing-cloud]` in search search query
 
+## Resources
+
+* [Introductions to AMPScript, SSJS and GTL)[https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/index.htm] - Salesforce Marketing Cloud introduction to programmatic marketing content
+
 ## Testing
 
 * [Litmus](https://litmus.com/) - test and track emails
 
 ## Tools
 
-* [Intro to Marketing Cloud APIs](https://developer.salesforce.com/docs/atlas.en-us.mc-apis.meta/mc-apis/index-api.htm) - documentation for Marketing Cloud APIs
+* [Introduction to Marketing Cloud APIs](https://developer.salesforce.com/docs/atlas.en-us.mc-apis.meta/mc-apis/index-api.htm) - documentation for Marketing Cloud APIs
 * [Salesforce Marketing Cloud Developer Tools (Google Chrome Extension)](https://markus.codes/sfmc-chrome-devtools) - Google Chrome Extension that makes life easier for Salesforce Marketing Cloud users
 * [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
 
