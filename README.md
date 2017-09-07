@@ -5,7 +5,7 @@
 ## Table of Contents
 
 * [Learning](#learning)
-* [Resources](#resources]
+* [Resources](#resources)
 * [Testing](#testing)
 * [Tools](#tools)
 
