@@ -15,7 +15,7 @@
 
 ## Resources
 
-* [Introductions to AMPScript, SSJS and GTL)[https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/index.htm] - Salesforce Marketing Cloud introduction to programmatic marketing content
+* [Introductions to AMPScript, SSJS and GTL](https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/index.htm) - Salesforce Marketing Cloud introduction to programmatic marketing content
 
 ## Testing
 
