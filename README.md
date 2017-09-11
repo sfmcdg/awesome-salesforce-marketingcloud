@@ -25,7 +25,7 @@
 
 ## Tips
 
-Epic, well thought out answers on https://salesforce.stackexchange.com/.
+Epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud).
 
 ### Data views
 
@@ -49,6 +49,6 @@ We are just setting up and links will be added shortly.
 
 Make a link or topic suggestion on [issues](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/issues) or in [LinkedIn SFMC Dev Group](https://www.linkedin.com/groups/7059991/7059991-6308431256036134912).
 
-Epic, well thought out answers on https://salesforce.stackexchange.com/ can also be included in [Tips](#tips)
+Epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud) can also be included in [Tips](#tips)
 
 
