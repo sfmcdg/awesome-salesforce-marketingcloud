@@ -7,7 +7,7 @@
 * [Learning](#learning)
 * [Resources](#resources)
 * [Testing](#testing)
-* [Tips](#tips) - epic, well thought out answers on https://salesforce.stackexchange.com/
+* [Tips](#tips) - epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud)
   * [Data views](#data-views)
 * [Tools](#tools)
 
