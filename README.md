@@ -7,7 +7,7 @@
 * [Learning](#learning)
 * [Resources](#resources)
 * [Testing](#testing)
-* [Tips](#tips)
+* [Tips](#tips) - epic, well thought out answers on https://salesforce.stackexchange.com/
   * [Data views](#data-views)
 * [Tools](#tools)
 
@@ -24,6 +24,8 @@
 * [Litmus](https://litmus.com/) - test and track emails
 
 ## Tips
+
+Epic, well thought out answers on https://salesforce.stackexchange.com/.
 
 ### Data views
 
@@ -47,6 +49,6 @@ We are just setting up and links will be added shortly.
 
 Make a link or topic suggestion on [issues](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/issues) or in [LinkedIn SFMC Dev Group](https://www.linkedin.com/groups/7059991/7059991-6308431256036134912).
 
-Epic, well thought out answers on https://salesforce.stackexchange.com/ can also be included.
+Epic, well thought out answers on https://salesforce.stackexchange.com/ can also be included in [Tips](#tips)
 
 
