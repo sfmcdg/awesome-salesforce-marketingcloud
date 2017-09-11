@@ -27,7 +27,7 @@
 
 ### Data views
 
-* [Get list of unsubscribes this year](https://salesforce.stackexchange.com/questions/97566/exacttarget-list-of-unsubscribes-this-year) - strategy for retrieving subscriber into data extension
+* [Get list of unsubscribes](https://salesforce.stackexchange.com/questions/97566/exacttarget-list-of-unsubscribes-this-year) - strategy for retrieving subscriber into data extension
 
 ## Tools
 
