@@ -7,6 +7,8 @@
 * [Learning](#learning)
 * [Resources](#resources)
 * [Testing](#testing)
+* [Tips](#tips)
+  * [Data views](#data-views)
 * [Tools](#tools)
 
 ## Learning
@@ -20,6 +22,12 @@
 ## Testing
 
 * [Litmus](https://litmus.com/) - test and track emails
+
+## Tips
+
+### Data views
+
+* [Get list of unsubscribes this year](https://salesforce.stackexchange.com/questions/97566/exacttarget-list-of-unsubscribes-this-year) - strategy for retrieving subscriber into data extension
 
 ## Tools
 
