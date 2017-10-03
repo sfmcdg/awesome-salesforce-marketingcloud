@@ -22,6 +22,7 @@
 ## Testing
 
 * [Litmus](https://litmus.com/) - test and track emails
+* [Email on Acid](https://www.emailonacid.com/) - good for testing and rendering emails on multiple clients and devices, also provides email analytics.
 
 ## Tips
 
