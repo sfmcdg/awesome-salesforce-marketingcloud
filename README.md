@@ -5,6 +5,7 @@
 ## Table of Contents
 
 * [Learning](#learning)
+* [Links](#links)
 * [Resources](#resources)
 * [Testing](#testing)
 * [Tips](#tips) - epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud)
@@ -15,6 +16,10 @@
 
 * [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud) - great forum to get help with Salesforce Marketing Cloud question and answers - quick tip: include `[marketing-cloud]` in search search query
 * [Video tutorial showing how to create an email and then send email to a list](https://www.youtube.com/watch?v=halN8bpuar8) - in this video, we review how to send an email from Marketing Cloud, includes: create an email; create & import to a list; execute a test & live Send; and review email tracking.
+
+## Links
+
+* [How to Hack the Salesforce Marketing Cloud: Where to go for help](https://www.linkedin.com/pulse/how-hack-salesforce-marketing-cloud-where-go-help-guilda-hilaire/) - another awesome list of helpful Salesforce Marketing Cloud links
 
 ## Resources
 
