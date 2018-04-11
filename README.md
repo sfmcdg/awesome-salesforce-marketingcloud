@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-* [Learning](#learning)
 * [Integration](#integration)
+* [Learning](#learning)
 * [Links](#links)
 * [Resources](#resources)
 * [Testing](#testing)
