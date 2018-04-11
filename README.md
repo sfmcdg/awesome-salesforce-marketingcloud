@@ -5,12 +5,17 @@
 ## Table of Contents
 
 * [Learning](#learning)
+* [Integration](#integration)
 * [Links](#links)
 * [Resources](#resources)
 * [Testing](#testing)
 * [Tips](#tips) - epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud)
   * [Data views](#data-views)
 * [Tools](#tools)
+
+## Integration
+
+* [Marketing Cloud Connect](http://help.marketingcloud.com/en/documentation/integrated_products__crm_and_web_analytic_solutions/marketing_cloud_connector_v5/) - Salesforce Marketing Cloud connector documentation
 
 ## Learning
 
