@@ -5,7 +5,7 @@
 ## Table of Contents
 
 * [Salesforce Marketing Cloud Developer Group](#salesforce-marketing-cloud-developer-group)
-  * [Videos and tutorials from past SFMCDG meetups](videos-and-tutorials-from-past-SFMCDG-meetups)
+  * [Videos and tutorials from past SFMCDG meetups](#videos-and-tutorials-from-past-SFMCDG-meetups)
 * [(Other) Awesome Lists](#awesome-lists)
 * [Integration](#integration)
 * [Learning](#learning)
