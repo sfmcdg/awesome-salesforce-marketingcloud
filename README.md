@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+* [Salesforce Marketing Cloud Developer Group](#salesforce-marketing-cloud-developer-group)
 * [(Other) Awesome Lists](#awesome-lists)
 * [Integration](#integration)
 * [Learning](#learning)
@@ -12,6 +13,12 @@
 * [Tips](#tips) - epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud)
   * [Data views](#data-views)
 * [Tools](#tools)
+
+## Salesforce Marketing Cloud Developer Group
+
+* [Salesforce Marketing Cloud Developer Meetup Group](https://www.meetup.com/Salesforce-Marketing-Cloud-Developers-Group/) - Whether you're currently a Salesforce Marketing Cloud Developer or would like to be one, this group is for you. Learn techniques, best practices, tips and suggestions for leveraging Marketing Cloud APIs and AMPscript in campaigns and marketing automation workflows. You will learn how to best utilise all of Salesforce Marketing Cloud technologies from a developers perspective.
+* [Salesforce Marketing Cloud Developer LinkedIn Group](https://www.linkedin.com/groups/7059991) - features articles from developers, links to [jobs](https://www.linkedin.com/groups/7059991/jobs) and the weekly Salesforce Marketing Cloud developer curated links and tips newsletter.
+* [@sfmcdg](https://twitter.com/sfmcdg) - follow us on twitter for Salesforce Marketing Cloud developer shares and updates.
 
 ## Awesome Lists
 
