@@ -5,6 +5,7 @@
 ## Table of Contents
 
 * [Salesforce Marketing Cloud Developer Group](#salesforce-marketing-cloud-developer-group)
+  * [Videos and tutorials from past SFMCDG meetups](video-and-tutorials-from-past-SFMCDG-meetups)
 * [(Other) Awesome Lists](#awesome-lists)
 * [Integration](#integration)
 * [Learning](#learning)
@@ -19,6 +20,14 @@
 * [Salesforce Marketing Cloud Developer Meetup Group](https://www.meetup.com/Salesforce-Marketing-Cloud-Developers-Group/) - Whether you're currently a Salesforce Marketing Cloud Developer or would like to be one, this group is for you. Learn techniques, best practices, tips and suggestions for leveraging Marketing Cloud APIs and AMPscript in campaigns and marketing automation workflows. You will learn how to best utilise all of Salesforce Marketing Cloud technologies from a developers perspective.
 * [Salesforce Marketing Cloud Developer LinkedIn Group](https://www.linkedin.com/groups/7059991) - features articles from developers, links to [jobs](https://www.linkedin.com/groups/7059991/jobs) and the weekly Salesforce Marketing Cloud developer curated links and tips newsletter.
 * [@sfmcdg](https://twitter.com/sfmcdg) - follow us on twitter for Salesforce Marketing Cloud developer shares and updates.
+
+### Videos and tutorials from past SFMCDG meetups
+
+* [AMPScript and More](https://vimeo.com/219890966) presented by Adam Spriggs, 31 May 2017
+* [Advanced AMPscript](https://vimeo.com/219919658) presented by Eliot Harper, 19 April 2017
+* [Marketing Cloud Connector](https://vimeo.com/227015728) presented by Girish Krishnamurthy, 21 June 2017
+* [Marketing Cloud APIs](https://vimeo.com/232789197) presented by Eliot Harper, 23 August 2017 [[presentation](assets/Marketing-Cloud-APIs-EliotHarper-Aug17.pdf) &amp; [Postman Collection](assets/SFMCDGMeetupAug17.postman_collection.json)]
+* [Content Block SDK](https://vimeo.com/265518897) presented by Thomas Besluau, 19 April 2018
 
 ## Awesome Lists
 
