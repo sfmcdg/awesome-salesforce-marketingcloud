@@ -39,7 +39,7 @@
 
 ## Learning
 
-* [Salesforce Marketing Cloud Consultant Notes](https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Consultant-Notes) Helpful SFMC consultant exam prep notes
+* [Salesforce Marketing Cloud Consultant Notes](https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Consultant-Notes) - helpful SFMC consultant exam prep notes.
 * [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud) - great forum to get help with Salesforce Marketing Cloud question and answers - quick tip: include `[marketing-cloud]` in search search query
 * [Video tutorial showing how to create an email and then send email to a list](https://www.youtube.com/watch?v=halN8bpuar8) - in this video, we review how to send an email from Marketing Cloud, includes: create an email; create & import to a list; execute a test & live Send; and review email tracking.
 
