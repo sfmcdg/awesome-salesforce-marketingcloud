@@ -1,0 +1,462 @@
+{
+	"variables": [],
+	"info": {
+		"name": "SFMCDG Meetup Aug 17",
+		"_postman_id": "24083aaa-2dd1-b756-ece3-0211d04e83d1",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Authentication",
+			"description": "",
+			"item": [
+				{
+					"name": "RequestToken",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"",
+									"var data = JSON.parse(responseBody);",
+									"",
+									"if (data.accessToken) {",
+									"  tests[\"Body has accessToken\"] = true; ",
+									"  postman.setEnvironmentVariable(\"accessToken\", data.accessToken);",
+									"}",
+									"else {",
+									"  tests[\"Body has accessToken\"] = false;",
+									"}"
+								]
+							}
+						}
+					],
+					"request": {
+						"url": "http://auth.exacttargetapis.com/v1/requestToken",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n   \"clientId\":\"{{clientId}}\",\n   \"clientSecret\":\"{{clientSecret}}\"\n}"
+						},
+						"description": "Replace `clientId` and `clientSecret` values with app credentials provided in App Center."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Contacts",
+			"description": "",
+			"item": [
+				{
+					"name": "Create Contact",
+					"event": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"postman.setEnvironmentVariable('dateTimeStamp',(new Date()).toISOString());"
+								]
+							}
+						}
+					],
+					"request": {
+						"url": "{{hostEndpoint}}/contacts/v1/contacts",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{accessToken}}",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{  \n   \"contactKey\":\"ef9c8c1d-ec24-4bcd-b3cc-9fc926a40f60\",\n   \"contactId\":null,\n   \"attributeSets\":[  \n      {  \n         \"name\":\"Email Addresses\",\n         \"items\":[  \n            {  \n               \"values\":[  \n                  {  \n                     \"name\":\"Email Address\",\n                     \"value\":\"someone@someone.com.au\"\n                  },\n                  {  \n                     \"name\":\"HTML Enabled\",\n                     \"value\":true\n                  }\n               ]\n            }\n         ]\n      },\n      {  \n         \"name\":\"MobileConnect Demographics\",\n         \"items\":[  \n            {  \n               \"values\":[  \n                  {  \n                     \"name\":\"Mobile Number\",\n                     \"value\":\"0402646146\"\n                  },\n                  {  \n                     \"name\":\"Locale\",\n                     \"value\":\"AU\"\n                  },\n                  {  \n                     \"name\":\"Status\",\n                     \"value\":1\n                  },\n                  {  \n                     \"name\":\"Created Date\",\n                     \"value\":\"{{dateTimeStamp}}\"\n                  },\n                  {  \n                     \"name\":\"Modified Date\",\n                     \"value\":\"{{dateTimeStamp}}\"\n                  }\n               ]\n            }\n         ]\n      },\n      {  \n         \"name\":\"Profile Data\",\n         \"items\":[  \n            {  \n               \"values\":[  \n                  {  \n                     \"name\":\"Contact Key\",\n                     \"value\":\"ef9c8c1d-ec24-4bcd-b3cc-9fc926a40f60\"\n                  },\n                  {  \n                     \"name\":\"Age\",\n                     \"value\":21\n                  },\n                  {  \n                     \"name\":\"Gender\",\n                     \"value\":\"male\"\n                  }\n               ]\n            }\n         ]\n      }\n   ]\n}"
+						},
+						"description": "The contact resource allows you to create a new contact with the specified information in the specified attribute groups."
+					},
+					"response": []
+				},
+				{
+					"name": "Search Contacts",
+					"request": {
+						"url": {
+							"raw": "https://www.exacttargetapis.com/contacts/v1/attributes/search?$page=1&$pageSize=100",
+							"protocol": "https",
+							"host": [
+								"www",
+								"exacttargetapis",
+								"com"
+							],
+							"path": [
+								"contacts",
+								"v1",
+								"attributes",
+								"search"
+							],
+							"query": [
+								{
+									"key": "$page",
+									"value": "1",
+									"equals": true,
+									"description": ""
+								},
+								{
+									"key": "$pageSize",
+									"value": "100",
+									"equals": true,
+									"description": ""
+								}
+							],
+							"variable": []
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{accessToken}}",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"request\": {\n        \"attributes\": [\n        \t{\n                \"key\": \"Email Addresses.Email Address\"\n            },\n        \t{\n                \"key\": \"Profile Data.Age\"\n            },\n        \t{\n                \"key\": \"Profile Data.Gender\"\n            }\n            ]\n\n    },\n    \"conditionSet\": {\n        \"operator\": \"And\",\n        \"conditionSets\": [],\n        \"conditions\": [{\n            \"attribute\": {\n                \"key\": \"Email Addresses.Email Address\"\n            },\n            \"operator\": \"Equals\",\n            \"value\": {\n                \"items\": [\"someone@someone.com.au\",\"unauth@someone.com\"]\n            }\n        }]\n    }\n}"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Update Contact",
+					"event": [
+						{
+							"listen": "prerequest",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"postman.setEnvironmentVariable('dateTimeStamp',(new Date()).toISOString());"
+								]
+							}
+						}
+					],
+					"request": {
+						"url": "{{hostEndpoint}}/contacts/v1/contacts",
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "Bearer {{accessToken}}",
+								"description": ""
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{  \n   \"contactKey\":\"256ab12d-09e4-0475-986d-b5c75a6dc75c\",\n   \"contactId\":null,\n   \"attributeSets\":[  \n      {  \n         \"name\":\"Email Addresses\",\n         \"items\":[  \n            {  \n               \"values\":[  \n                  {  \n                     \"name\":\"Email Address\",\n                     \"value\":\"sam@sample.com\"\n                  },\n                  {  \n                     \"name\":\"HTML Enabled\",\n                     \"value\":true\n                  }\n               ]\n            }\n         ]\n      },\n      {  \n         \"name\":\"MobileConnect Demographics\",\n         \"items\":[  \n            {  \n               \"values\":[  \n                  {  \n                     \"name\":\"Mobile Number\",\n                     \"value\":\"0402646146\"\n                  },\n                  {  \n                     \"name\":\"Locale\",\n                     \"value\":\"AU\"\n                  },\n                  {  \n                     \"name\":\"Status\",\n                     \"value\":1\n                  },\n                  {  \n                     \"name\":\"Created Date\",\n                     \"value\":\"{{dateTimeStamp}}\"\n                  },\n                  {  \n                     \"name\":\"Modified Date\",\n                     \"value\":\"{{dateTimeStamp}}\"\n                  }\n               ]\n            }\n         ]\n      },\n      {  \n         \"name\":\"Contacts\",\n         \"items\":[  \n            {  \n               \"values\":[  \n                  {  \n                     \"name\":\"Contact Key\",\n                     \"value\":\"256ab12d-09e4-0475-986d-b5c75a6dc75c\"\n                  },\n                  {  \n                     \"name\":\"First Name\",\n                     \"value\":\"Sam\"\n                  },\n                  {  \n                     \"name\":\"Last Name\",\n                     \"value\":\"Sample\"\n                  },\n                  {  \n                     \"name\":\"State\",\n                     \"value\":\"VIC\"\n                  },\n                  {  \n                     \"name\":\"Postcode\",\n                     \"value\":\"3195\"\n                  },\n                  {  \n                     \"name\":\"Gender\",\n                     \"value\":\"m\"\n                  },\n                  {  \n                     \"name\":\"Source\",\n                     \"value\":\"web\"\n                  },\n                  {  \n                     \"name\":\"Date Joined\",\n                     \"value\":\"{{dateTimeStamp}}\"\n                  }\n               ]\n            }\n         ]\n      },\n      {  \n         \"name\":\"Contact Campaigns\",\n         \"items\":[  \n            {  \n               \"values\":[  \n                  {  \n                     \"name\":\"Contact Key\",\n                     \"value\":\"256ab12d-09e4-0475-986d-b5c75a6dc75c\"\n                  },\n                  {  \n                     \"name\":\"Campaign Code\",\n                     \"value\":1235\n                  }\n               ]\n            }\n         ]\n      },\n      {  \n         \"name\":\"Centre Subscriptions\",\n         \"items\":[  \n            {  \n               \"values\":[  \n                  {  \n                     \"name\":\"Contact Key\",\n                     \"value\":\"256ab12d-09e4-0475-986d-b5c75a6dc75c\"\n                  },\n                  {  \n                     \"name\":\"subscribed\",\n                     \"value\":true\n                  }\n               ]\n            }\n         ]\n      },\n      {  \n         \"name\":\"Website Interactions\",\n         \"items\":[  \n            {  \n               \"values\":[  \n                  {  \n                     \"name\":\"ContactKey\",\n                     \"value\":\"256ab12d-09e4-0475-986d-b5c75a6dc75c\"\n                  },\n                  {  \n                     \"name\":\"EventInstanceID\",\n                     \"value\":\"{{$guid}}\"\n                  },\n                  {  \n                     \"name\":\"Entity\",\n                     \"value\":\"signup\"\n                  },\n                  {  \n                     \"name\":\"Action\",\n                     \"value\":\"opt-in\"\n                  },\n                  {  \n                     \"name\":\"Centre\",\n                     \"value\":2\n                  },\n                  {  \n                     \"name\":\"Session\",\n                     \"value\":\"s%3AWTnP6HczeHiHG78tgG1JB3sM.JczGDX3quRbiuKuf%2BSBH9q%2FVpziRSsrT%2FxcQBlvemsM\"\n                  },\n                  {\n                     \"name\": \"InteractionDate\",\n                     \"value\": \"{{dateTimeStamp}}\"\n                  }\n               ]\n            }\n         ]\n      }\n   ]\n}"
+						},
+						"description": "This method is used to update an existing Contact.\n\nUse a uuid/guid value for `contactKey`."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Create DE and Folder",
+			"description": "",
+			"item": [
+				{
+					"name": "RequestToken",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"",
+									"var data = JSON.parse(responseBody);",
+									"",
+									"if (data.accessToken) {",
+									"  tests[\"Body has accessToken\"] = true; ",
+									"  postman.setEnvironmentVariable(\"accessToken\", data.accessToken);",
+									"}",
+									"else {",
+									"  tests[\"Body has accessToken\"] = false;",
+									"}"
+								]
+							}
+						}
+					],
+					"request": {
+						"url": "http://auth.exacttargetapis.com/v1/requestToken",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n   \"clientId\":\"{{clientId}}\",\n   \"clientSecret\":\"{{clientSecret}}\"\n}"
+						},
+						"description": "Replace `clientId` and `clientSecret` values with app credentials provided in App Center."
+					},
+					"response": []
+				},
+				{
+					"name": "Retrieve Data Extension Parent Folder",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"var xmlResponse = xml2Json(responseBody);",
+									"",
+									"if (xmlResponse['soap:Envelope']['soap:Body'].RetrieveResponseMsg.OverallStatus === 'OK')  {",
+									"  tests[\"retrieved parent folder\"] = true; ",
+									"  postman.setEnvironmentVariable(\"parentFolderId\", xmlResponse['soap:Envelope']['soap:Body'].RetrieveResponseMsg.Results.ID);",
+									"}",
+									"",
+									"else {",
+									"  tests[\"retrieved parent folder\"] = false;",
+									"}",
+									""
+								]
+							}
+						}
+					],
+					"request": {
+						"url": "{{soapEndPoint}}/Service.asmx",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/xml",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<s:Envelope xmlns:s=\"http://www.w3.org/2003/05/soap-envelope\" xmlns:a=\"http://schemas.xmlsoap.org/ws/2004/08/addressing\" xmlns:u=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd\">\n   <s:Header>\n      <a:Action s:mustUnderstand=\"1\">Retrieve</a:Action>\n      <a:MessageID>urn:uuid:7e0cca04-57bd-4481-864c-6ea8039d2ea0</a:MessageID>\n      <a:ReplyTo>\n         <a:Address>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</a:Address>\n      </a:ReplyTo>\n      <a:To s:mustUnderstand=\"1\">{{soapEndPoint}}/Service.asmx</a:To>\n      <fueloauth xmlns=\"http://exacttarget.com\">{{accessToken}}</fueloauth>\n   </s:Header>\n  <s:Body xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">\n      <RetrieveRequestMsg xmlns=\"http://exacttarget.com/wsdl/partnerAPI\">\n         <RetrieveRequest>\n                <ObjectType>DataFolder</ObjectType>\n                <Properties>ID</Properties>\n                <Properties>Name</Properties>\n                <Properties>ContentType</Properties>\n                <Properties>ParentFolder.Name</Properties>\n                <Properties>ObjectID</Properties>\n                <Properties>ParentFolder.ObjectID</Properties>\n                <ns1:Filter\n                     xmlns:ns1=\"http://exacttarget.com/wsdl/partnerAPI\" xsi:type=\"ns1:SimpleFilterPart\">\n                     <ns1:Property>Name</ns1:Property>\n                     <ns1:SimpleOperator>equals</ns1:SimpleOperator>\n                     <ns1:Value>SFMCDG</ns1:Value>\n                </ns1:Filter>\n                <QueryAllAccounts>false</QueryAllAccounts>\n            </RetrieveRequest>\n      </RetrieveRequestMsg>\n  </s:Body>\n</s:Envelope>"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Create Data Extension Folder",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"var xmlResponse = xml2Json(responseBody);",
+									"",
+									"if (xmlResponse['soap:Envelope']['soap:Body'].CreateResponse.Results.StatusCode === 'OK')  {",
+									"  tests[\"created folder\"] = true; ",
+									"  postman.setEnvironmentVariable(\"categoryId\", xmlResponse['soap:Envelope']['soap:Body'].CreateResponse.Results.NewID);",
+									"}",
+									"",
+									"else {",
+									"  tests[\"created folder\"] = false;",
+									"}",
+									""
+								]
+							}
+						}
+					],
+					"request": {
+						"url": "{{soapEndPoint}}/Service.asmx",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/xml",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<s:Envelope xmlns:s=\"http://www.w3.org/2003/05/soap-envelope\" xmlns:a=\"http://schemas.xmlsoap.org/ws/2004/08/addressing\" xmlns:u=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd\">\n   <s:Header>\n      <a:Action s:mustUnderstand=\"1\">Create</a:Action>\n      <a:MessageID>urn:uuid:7e0cca04-57bd-4481-864c-6ea8039d2ea0</a:MessageID>\n      <a:ReplyTo>\n         <a:Address>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</a:Address>\n      </a:ReplyTo>\n      <a:To s:mustUnderstand=\"1\">{{soapEndPoint}}/Service.asmx</a:To>\n      <fueloauth xmlns=\"http://exacttarget.com\">{{accessToken}}</fueloauth>\n   </s:Header>\n  <s:Body xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">\n    <CreateRequest xmlns=\"http://exacttarget.com/wsdl/partnerAPI\">\n         <Objects xsi:type=\"DataFolder\">\n                <ParentFolder>\n                    <ID>{{parentFolderId}}</ID>\n                </ParentFolder>\n                <CustomerKey>{{$guid}}</CustomerKey>\n                <Name>VIP Members</Name>\n                <Description>VIP Member Data</Description>\n                <ContentType>dataextension</ContentType>\n                <IsActive>true</IsActive>\n                <IsEditable>true</IsEditable>\n                <AllowChildren>true</AllowChildren>\n         </Objects>\n    </CreateRequest>\n  </s:Body>\n</s:Envelope>"
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Create Data Extension",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"type": "text/javascript",
+								"exec": [
+									"var xmlResponse = xml2Json(responseBody);",
+									"",
+									"if (xmlResponse['soap:Envelope']['soap:Body'].CreateResponse.Results.StatusCode === 'OK')  {",
+									"  tests[\"created Data Extension\"] = true; ",
+									"}",
+									"else {",
+									"  tests[\"created Data Extension\"] = false;",
+									"}",
+									""
+								]
+							}
+						}
+					],
+					"request": {
+						"url": "{{soapEndPoint}}/Service.asmx",
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "text/xml",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<s:Envelope xmlns:s=\"http://www.w3.org/2003/05/soap-envelope\" xmlns:a=\"http://schemas.xmlsoap.org/ws/2004/08/addressing\" xmlns:u=\"http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd\">\n   <s:Header>\n      <a:Action s:mustUnderstand=\"1\">Create</a:Action>\n      <a:MessageID>urn:uuid:7e0cca04-57bd-4481-864c-6ea8039d2ea0</a:MessageID>\n      <a:ReplyTo>\n         <a:Address>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</a:Address>\n      </a:ReplyTo>\n      <a:To s:mustUnderstand=\"1\">{{soapEndPoint}}/Service.asmx</a:To>\n      <fueloauth xmlns=\"http://exacttarget.com\">{{accessToken}}</fueloauth>\n   </s:Header>\n  <s:Body xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\">\n    <CreateRequest xmlns=\"http://exacttarget.com/wsdl/partnerAPI\">\n         <Objects xsi:type=\"DataExtension\">\n            <CustomerKey>{{$guid}}</CustomerKey>\n            <Name>Customer Accounts</Name>\n            <CategoryID>{{categoryId}}</CategoryID>\n            <IsSendable>false</IsSendable>\n            <Fields>\n                <Field>\n                    <Name>Contact Key</Name>\n                    <FieldType>Text</FieldType>\n                    <MaxLength>50</MaxLength>\n                    <IsRequired>true</IsRequired>\n                    <IsPrimaryKey>true</IsPrimaryKey>\n                </Field>\n                <Field>\n                    <Name>Account Type</Name>\n                    <FieldType>Text</FieldType>\n                    <MaxLength>50</MaxLength>\n                    <IsRequired>true</IsRequired>\n                    <IsPrimaryKey>false</IsPrimaryKey>\n                </Field>\n                <Field>\n                    <Name>Signup Date</Name>\n                    <IsRequired>false</IsRequired>\n                    <IsPrimaryKey>false</IsPrimaryKey>\n                    <FieldType>Date</FieldType>\n                </Field>\n                <Field>\n                    <Name>Is Customer</Name>\n                    <IsRequired>false</IsRequired>\n                    <IsPrimaryKey>false</IsPrimaryKey>\n                    <FieldType>Boolean</FieldType>\n                </Field> \n            </Fields>\n         </Objects>\n    </CreateRequest>\n  </s:Body>\n</s:Envelope>"
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Other methods",
+			"description": "",
+			"item": [
+				{
+					"name": "Preview Email",
+					"request": {
+						"url": {
+							"raw": "{{hostEndpoint}}/guide/v1/emails/{{emailId}}/dataExtension/key:{{deKey}}/contacts/key:{{subscriberKey}}/preview?kind=html",
+							"host": [
+								"{{hostEndpoint}}"
+							],
+							"path": [
+								"guide",
+								"v1",
+								"emails",
+								"{{emailId}}",
+								"dataExtension",
+								"key:{{deKey}}",
+								"contacts",
+								"key:{{subscriberKey}}",
+								"preview"
+							],
+							"query": [
+								{
+									"key": "kind",
+									"value": "html",
+									"equals": true,
+									"description": ""
+								}
+							],
+							"variable": []
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{accessToken}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Discovery Document",
+					"request": {
+						"url": {
+							"raw": "{{hostEndpoint}}/guide/v1/emails/{{emailId}}/dataExtension/key:{{deKey}}/contacts/key:{{subscriberKey}}/preview?kind=html",
+							"host": [
+								"{{hostEndpoint}}"
+							],
+							"path": [
+								"guide",
+								"v1",
+								"emails",
+								"{{emailId}}",
+								"dataExtension",
+								"key:{{deKey}}",
+								"contacts",
+								"key:{{subscriberKey}}",
+								"preview"
+							],
+							"query": [
+								{
+									"key": "kind",
+									"value": "html",
+									"equals": true,
+									"description": ""
+								}
+							],
+							"variable": []
+						},
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"description": ""
+							},
+							{
+								"key": "Authorization",
+								"value": "Bearer {{accessToken}}",
+								"description": ""
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

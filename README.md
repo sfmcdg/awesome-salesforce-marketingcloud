@@ -5,9 +5,8 @@
 ## Table of Contents
 
 * [Salesforce Marketing Cloud Developer Group](#salesforce-marketing-cloud-developer-group)
-  * [Videos and tutorials from past SFMCDG meetups](#videos-and-tutorials-from-past-SFMCDG-meetups)
+  * [Presentations from past SFMCDG meetups](#videos-and-tutorials-from-past-SFMCDG-meetups)
 * [(Other) Awesome Lists](#awesome-lists)
-* [Integration](#integration)
 * [Learning](#learning)
 * [Resources](#resources)
 * [Testing](#testing)
@@ -21,25 +20,29 @@
 * [Salesforce Marketing Cloud Developer LinkedIn Group](https://www.linkedin.com/groups/7059991) - features articles from developers, links to [jobs](https://www.linkedin.com/groups/7059991/jobs) and the weekly Salesforce Marketing Cloud developer curated links and tips newsletter.
 * [@sfmcdg](https://twitter.com/sfmcdg) - follow us on twitter for Salesforce Marketing Cloud developer shares and updates.
 
-### Videos and tutorials from past SFMCDG meetups
+### Presentations from past SFMCDG meetups
 
 * [AMPScript and More](https://vimeo.com/219890966) presented by Adam Spriggs, 31 May 2017
 * [Advanced AMPscript](https://vimeo.com/219919658) presented by Eliot Harper, 19 April 2017
 * [Marketing Cloud Connector](https://vimeo.com/227015728) presented by Girish Krishnamurthy, 21 June 2017
 * [Marketing Cloud APIs](https://vimeo.com/232789197) presented by Eliot Harper, 23 August 2017 [[presentation](assets/Marketing-Cloud-APIs-EliotHarper-Aug17.pdf) &amp; [Postman Collection](assets/SFMCDGMeetupAug17.postman_collection.json)]
 * [Content Block SDK](https://vimeo.com/265518897) presented by Thomas Besluau, 19 April 2018
+* [Marketing Cloud Data Model Optimization Strategies](assets/CNX18-Data-Model-Optimization-Strategies-EHarper.pdf) presented by [Eliot Harper](https://github.com/eliotharper) at Connections 2018
+* [Email Content Architecture Strategies](assets/CNX18-Email-Content-Architecture-Strategies-ASpriggs.pdf) presented by [Adam Spriggs](https://github.com/wvpv) at Connections 2018
+* [Preference Center Development Best Practices](assets/CNX18-Preference-Center-Development-Best-Practices-PSapir.pdf) presented by [Pato Sapir](https://github.com/psapir) at Connections 2018
+* [Understanding Guide Template Language](assets/CNX18-Understanding-Guide-Template-Language-EHarper.pdf) presented by [Eliot Harper](https://github.com/eliotharper) at Connections 2018
+* [Build your own Journey Builder Activities](assets/CNX18-Build-your-own-Journey-Builder-Activities-PSapir.pdf) presented by [Pato Sapir](https://github.com/psapir) at Connections 2018
+* [REST API integration in Automation Studio using Script Activities](assets/CNX18-REST-API-in-Script-Activities-ASpriggs.pdf) presented by [Adam Spriggs](https://github.com/wvpv) at Connections 2018
+
 
 ## Awesome Lists
 
 * [How to Hack the Salesforce Marketing Cloud: Where to go for help](https://www.linkedin.com/pulse/how-hack-salesforce-marketing-cloud-where-go-help-guilda-hilaire/) - another awesome list of helpful Salesforce Marketing Cloud links
 * [How to Hack the Salesforce Marketing Cloud: The “10 Commandments” when it comes to migrating onto the Salesforce Marketing Cloud](https://www.linkedin.com/pulse/how-hack-salesforce-marketing-cloud-10-commandments-when-hilaire/) - tips for a Salesforce Marketing Cloud migration plan
 
-## Integration
-
-* [Marketing Cloud Connect](http://help.marketingcloud.com/en/documentation/integrated_products__crm_and_web_analytic_solutions/marketing_cloud_connector_v5/) - Salesforce Marketing Cloud connector documentation
-
 ## Learning
 
+* [The AMPscript Guide](https://ampscript.guide) - the comprehensive reference manual for learning and using AMPscript
 * [Salesforce Marketing Cloud Consultant Notes](https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Consultant-Notes) - helpful SFMC consultant exam prep notes.
 * [Salesforce Marketing Cloud consultant certification summary notes](https://sfdcleo.wordpress.com/2018/04/29/marketing-cloud-consultant-certification-summary/) - Marketing Cloud Consultant certification summary notes
 * [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud) - great forum to get help with Salesforce Marketing Cloud question and answers - quick tip: include `[marketing-cloud]` in search search query
@@ -48,6 +51,7 @@
 ## Resources
 
 * [Introductions to AMPScript, SSJS and GTL](https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/index.htm) - Salesforce Marketing Cloud introduction to programmatic marketing content
+* [Marketing Cloud Connect](http://help.marketingcloud.com/en/documentation/integrated_products__crm_and_web_analytic_solutions/marketing_cloud_connector_v5/) - Salesforce Marketing Cloud connector documentation
 
 ## Testing
 
