@@ -21,7 +21,7 @@
 
 ### Presentations from past SFMCDG meetups
 
-> **NEW:** Now includes Connections 2018 Sessions
+> **NEW: Now includes Connections 2018 Sessions!**
 
 * [AMPScript and More](https://vimeo.com/219890966) presented by [Adam Spriggs](https://github.com/wvpv), 31 May 2017
 * [Advanced AMPscript](https://vimeo.com/219919658) presented by [Eliot Harper](https://github.com/eliotharper), 19 April 2017
