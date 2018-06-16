@@ -1,18 +1,17 @@
 # Awesome Salesforce Marketing Cloud
 
-> A collection of awesome resources for working with Salesforce Marketing Cloud
+> A collection of helpful resources for working with Salesforce Marketing Cloud
 
 ## Table of Contents
 
 * [Salesforce Marketing Cloud Developer Group (SFMCDG)](#salesforce-marketing-cloud-developer-group)
   * [Presentations from past SFMCDG meetups](#presentations-from-past-SFMCDG-meetups)
-* [(Other) Awesome Lists](#awesome-lists)
+* [Awesome Lists](#awesome-lists)
 * [Learning](#learning)
 * [Resources](#resources)
 * [Testing](#testing)
-* [Tips](#tips) - epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud)
-  * [Data views](#data-views)
 * [Tools](#tools)
+* [Contribute](#contribute)
 
 ## Salesforce Marketing Cloud Developer Group
 
@@ -22,11 +21,13 @@
 
 ### Presentations from past SFMCDG meetups
 
-* [AMPScript and More](https://vimeo.com/219890966) presented by Adam Spriggs, 31 May 2017
-* [Advanced AMPscript](https://vimeo.com/219919658) presented by Eliot Harper, 19 April 2017
+> **NEW:** Now includes Connections 2018 Sessions
+
+* [AMPScript and More](https://vimeo.com/219890966) presented by [Adam Spriggs](https://github.com/wvpv), 31 May 2017
+* [Advanced AMPscript](https://vimeo.com/219919658) presented by [Eliot Harper](https://github.com/eliotharper), 19 April 2017
 * [Marketing Cloud Connector](https://vimeo.com/227015728) presented by Girish Krishnamurthy, 21 June 2017
-* [Marketing Cloud APIs](https://vimeo.com/232789197) presented by Eliot Harper, 23 August 2017 [[presentation](assets/Marketing-Cloud-APIs-EliotHarper-Aug17.pdf) &amp; [Postman Collection](assets/SFMCDGMeetupAug17.postman_collection.json)]
-* [Content Block SDK](https://vimeo.com/265518897) presented by Thomas Besluau, 19 April 2018
+* [Marketing Cloud APIs](https://vimeo.com/232789197) presented by [Eliot Harper](https://github.com/eliotharper), 23 August 2017 [[presentation](assets/Marketing-Cloud-APIs-EliotHarper-Aug17.pdf) &amp; [Postman Collection](assets/SFMCDGMeetupAug17.postman_collection.json)]
+* [Content Block SDK](https://vimeo.com/265518897) presented by [Thomas Besluau](https://github.com/tbesluau), 19 April 2018
 * [Marketing Cloud Data Model Optimization Strategies](assets/CNX18-Data-Model-Optimization-Strategies-EHarper.pdf) presented by [Eliot Harper](https://github.com/eliotharper) at Connections 2018
 * [Email Content Architecture Strategies](assets/CNX18-Email-Content-Architecture-Strategies-ASpriggs.pdf) presented by [Adam Spriggs](https://github.com/wvpv) at Connections 2018
 * [Preference Center Development Best Practices](assets/CNX18-Preference-Center-Development-Best-Practices-PSapir.pdf) presented by [Pato Sapir](https://github.com/psapir) at Connections 2018
@@ -37,7 +38,7 @@
 
 ## Awesome Lists
 
-* [How to Hack the Salesforce Marketing Cloud: Where to go for help](https://www.linkedin.com/pulse/how-hack-salesforce-marketing-cloud-where-go-help-guilda-hilaire/) - another awesome list of helpful Salesforce Marketing Cloud links
+* [How to 'Hack' the Salesforce Marketing Cloud: Where to go for help](https://www.linkedin.com/pulse/how-hack-salesforce-marketing-cloud-where-go-help-guilda-hilaire/) - another awesome list of helpful Salesforce Marketing Cloud links
 * [How to Hack the Salesforce Marketing Cloud: The “10 Commandments” when it comes to migrating onto the Salesforce Marketing Cloud](https://www.linkedin.com/pulse/how-hack-salesforce-marketing-cloud-10-commandments-when-hilaire/) - tips for a Salesforce Marketing Cloud migration plan
 
 ## Learning
@@ -52,19 +53,13 @@
 
 * [Introductions to AMPScript, SSJS and GTL](https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/index.htm) - Salesforce Marketing Cloud introduction to programmatic marketing content
 * [Marketing Cloud Connect](http://help.marketingcloud.com/en/documentation/integrated_products__crm_and_web_analytic_solutions/marketing_cloud_connector_v5/) - Salesforce Marketing Cloud connector documentation
+* [Get list of unsubscribes](https://salesforce.stackexchange.com/questions/97566/exacttarget-list-of-unsubscribes-this-year) - strategy for retrieving subscriber into data extension
+* [Awesome Emails](https://github.com/jonathandion/awesome-emails) - an awesome list of resources to build better emails.
 
 ## Testing
 
 * [Litmus](https://litmus.com/) - test and track emails
 * [Email on Acid](https://www.emailonacid.com/) - good for testing and rendering emails on multiple clients and devices, also provides email analytics.
-
-## Tips
-
-Epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud).
-
-### Data views
-
-* [Get list of unsubscribes](https://salesforce.stackexchange.com/questions/97566/exacttarget-list-of-unsubscribes-this-year) - strategy for retrieving subscriber into data extension
 
 ## Tools
 
@@ -72,18 +67,6 @@ Epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://s
 * [Salesforce Marketing Cloud Developer Tools (Google Chrome Extension)](https://markus.codes/sfmc-chrome-devtools) - Google Chrome Extension that makes life easier for Salesforce Marketing Cloud users
 * [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
 
----
-
-## More Awesome
-
-* [Awesome Emails](https://github.com/jonathandion/awesome-emails) - an awesome list of resources to build better emails.
-
-## How to contribute
-
-We are just setting up and links will be added shortly.
+## Contribute
 
 Make a link or topic suggestion on [issues](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/issues) or in [LinkedIn SFMC Dev Group](https://www.linkedin.com/groups/7059991/7059991-6308431256036134912).
-
-Epic, well thought out answers on [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud) can also be included in [Tips](#tips)
-
-
