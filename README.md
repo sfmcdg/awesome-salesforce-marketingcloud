@@ -1,6 +1,6 @@
 # Awesome Salesforce Marketing Cloud
 
-> A collection of helpful resources for working with Salesforce Marketing Cloud
+A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 ## Table of Contents
 
