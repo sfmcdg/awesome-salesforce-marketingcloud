@@ -34,6 +34,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 * [Understanding Guide Template Language](assets/CNX18-Understanding-Guide-Template-Language-EHarper.pdf) presented by [Eliot Harper](https://github.com/eliotharper) at Connections 2018
 * [Build your own Journey Builder Activities](assets/CNX18-Build-your-own-Journey-Builder-Activities-PSapir.pdf) presented by [Pato Sapir](https://github.com/psapir) at Connections 2018
 * [REST API integration in Automation Studio using Script Activities](assets/CNX18-REST-API-in-Script-Activities-ASpriggs.pdf) presented by [Adam Spriggs](https://github.com/wvpv) at Connections 2018
+* [Connections 2018 Review & AMPscript 101](https://vimeo.com/276135605) presented by [Eliot Harper](https://github.com/eliotharper), 21 June 2018
 
 
 ## Awesome Lists
