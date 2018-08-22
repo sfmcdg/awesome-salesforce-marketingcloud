@@ -17,6 +17,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 * [Salesforce Marketing Cloud Developers Group](https://trailblazercommunitygroups.com/marketing-cloud-developers-group/) - Whether you're currently a Salesforce Marketing Cloud Developer or would like to be one, this group is for you. Learn techniques, best practices, tips and suggestions for leveraging Marketing Cloud APIs and AMPscript in campaigns and marketing automation workflows. You will learn how to best utilise all of Salesforce Marketing Cloud technologies from a developers perspective.
 * [Salesforce Marketing Cloud Developer LinkedIn Group](https://www.linkedin.com/groups/7059991) - features articles from developers, links to [jobs](https://www.linkedin.com/groups/7059991/jobs) and the weekly Salesforce Marketing Cloud developer curated links and tips newsletter.
+* [Salesforce Marketing Cloud Developers Group on Slack](http://sfmcdg.slack.com) - join us on slack to chat about upcoming events, ask questions and connect.
 * [@sfmcdg](https://twitter.com/sfmcdg) - follow us on twitter for Salesforce Marketing Cloud developer shares and updates.
 
 ### Presentations from past SFMCDG meetups
