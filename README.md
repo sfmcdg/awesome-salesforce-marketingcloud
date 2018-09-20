@@ -37,6 +37,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 * [REST API integration in Automation Studio using Script Activities](assets/CNX18-REST-API-in-Script-Activities-ASpriggs.pdf) presented by [Adam Spriggs](https://github.com/wvpv) at Connections 2018
 * [Connections 2018 Review & AMPscript 101](https://vimeo.com/276135605) presented by [Eliot Harper](https://github.com/eliotharper), 21 June 2018
 * [WSProxy for SSJS](assets/WSProxyPresentationGregGifford-Aug18.mp4) presented by Greg Gifford, 22 August 2018
+* [Everything you always wanted to know about Social Studio](assets/SocialStudio_DevGroupPresentationFINAL-red.pdf) presented by Tamara Klink, 19 September 2018
 
 
 
