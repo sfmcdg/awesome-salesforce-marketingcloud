@@ -36,7 +36,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 * [Connections 2018 Review & AMPscript 101](https://vimeo.com/276135605) presented by [Eliot Harper](https://github.com/eliotharper), 21 June 2018
 * [WSProxy for SSJS](assets/WSProxyPresentationGregGifford-Aug18.mp4) presented by Greg Gifford, 22 August 2018
 * [Everything you always wanted to know about Social Studio](assets/SocialStudio_DevGroupPresentationFINAL-red.pdf) presented by Tamara Klink, 19 September 2018
-* [Marketing Cloud at Dreamforce](https://youtu.be/yldBTSukq7Q) presented by Tina Rozul, Evelyn Cass, Vlad Silak and Eliot Harper, 17 October 2018
+* [Marketing Cloud at Dreamforce](https://youtu.be/xzOVOEaxaR4) presented by Tina Rozul, Evelyn Cass, Vlad Silak and Eliot Harper, 17 October 2018
 
 ## Awesome Lists
 
