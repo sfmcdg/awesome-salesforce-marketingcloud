@@ -22,8 +22,6 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 ### Presentations from past SFMCDG meetups
 
-> **NEW: Now includes Connections 2018 Sessions!**
-
 * [AMPScript and More](https://vimeo.com/219890966) presented by [Adam Spriggs](https://github.com/wvpv), 31 May 2017
 * [Advanced AMPscript](https://vimeo.com/219919658) presented by [Eliot Harper](https://github.com/eliotharper), 19 April 2017
 * [Marketing Cloud Connector](https://vimeo.com/227015728) presented by Girish Krishnamurthy, 21 June 2017
@@ -38,9 +36,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 * [Connections 2018 Review & AMPscript 101](https://vimeo.com/276135605) presented by [Eliot Harper](https://github.com/eliotharper), 21 June 2018
 * [WSProxy for SSJS](assets/WSProxyPresentationGregGifford-Aug18.mp4) presented by Greg Gifford, 22 August 2018
 * [Everything you always wanted to know about Social Studio](assets/SocialStudio_DevGroupPresentationFINAL-red.pdf) presented by Tamara Klink, 19 September 2018
-
-
-
+* [Marketing Cloud at Dreamforce](https://youtu.be/yldBTSukq7Q) presented by Tina Rozul, Evelyn Cass, Vlad Silak and Eliot Harper, 17 October 2018
 
 ## Awesome Lists
 
