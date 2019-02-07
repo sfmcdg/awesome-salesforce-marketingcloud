@@ -5,6 +5,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 ## Table of Contents
 
 * [About Salesforce Marketing Cloud Developer Group (SFMCDG)](#salesforce-marketing-cloud-developer-group)
+* [Presentations from meetup events](#presentations-from-meetup-events)
   * [Presentations from past SFMCDG meetups](#presentations-from-past-sfmcdg-meetups)
 * [Awesome Lists](#awesome-lists)
 * [Learning](#learning)
@@ -19,6 +20,10 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 * [Salesforce Marketing Cloud Developer LinkedIn Group](https://www.linkedin.com/groups/7059991) - features articles from developers, links to [jobs](https://www.linkedin.com/groups/7059991/jobs) and the weekly Salesforce Marketing Cloud developer curated links and tips newsletter.
 * [Salesforce Marketing Cloud Developers Group on Slack](http://sfmcdg.slack.com) - join us on slack to chat about upcoming events, ask questions and connect.
 * [@sfmcdg](https://twitter.com/sfmcdg) - follow us on twitter for Salesforce Marketing Cloud developer shares and updates.
+
+## Presentations from meetup events
+
+Presentations featuring Salesforce Marketing Cloud.
 
 ### Presentations from past SFMCDG meetups
 
