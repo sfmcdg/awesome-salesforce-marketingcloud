@@ -21,29 +21,28 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 * [Salesforce Marketing Cloud Developers Group on Slack](http://sfmcdg.slack.com) - join us on slack to chat about upcoming events, ask questions and connect.
 * [@sfmcdg](https://twitter.com/sfmcdg) - follow us on twitter for Salesforce Marketing Cloud developer shares and updates.
 
-## Presentations from meetup events
+## Presentations from past SFMCDG meetups
 
-Presentations featuring Salesforce Marketing Cloud.
+Listed by event date, most recent first.
 
-### Presentations from past SFMCDG meetups
-
-* [AMPScript and More](https://vimeo.com/219890966) presented by [Adam Spriggs](https://github.com/wvpv), 31 May 2017
-* [Advanced AMPscript](https://vimeo.com/219919658) presented by [Eliot Harper](https://github.com/eliotharper), 19 April 2017
-* [Marketing Cloud Connector](https://vimeo.com/227015728) presented by Girish Krishnamurthy, 21 June 2017
-* [Marketing Cloud APIs](https://vimeo.com/232789197) presented by [Eliot Harper](https://github.com/eliotharper), 23 August 2017 [[presentation](assets/Marketing-Cloud-APIs-EliotHarper-Aug17.pdf) &amp; [Postman Collection](assets/SFMCDGMeetupAug17.postman_collection.json)]
-* [Content Block SDK](https://vimeo.com/265518897) presented by [Thomas Besluau](https://github.com/tbesluau), 19 April 2018
-* [Marketing Cloud Data Model Optimization Strategies](assets/CNX18-Data-Model-Optimization-Strategies-EHarper.pdf) presented by [Eliot Harper](https://github.com/eliotharper) at Connections 2018
-* [Email Content Architecture Strategies](assets/CNX18-Email-Content-Architecture-Strategies-ASpriggs.pdf) presented by [Adam Spriggs](https://github.com/wvpv) at Connections 2018
-* [Preference Center Development Best Practices](assets/CNX18-Preference-Center-Development-Best-Practices-PSapir.pdf) presented by [Pato Sapir](https://github.com/psapir) at Connections 2018
-* [Understanding Guide Template Language](assets/CNX18-Understanding-Guide-Template-Language-EHarper.pdf) presented by [Eliot Harper](https://github.com/eliotharper) at Connections 2018
-* [Build your own Journey Builder Activities](assets/CNX18-Build-your-own-Journey-Builder-Activities-PSapir.pdf) presented by [Pato Sapir](https://github.com/psapir) at Connections 2018
-* [REST API integration in Automation Studio using Script Activities](assets/CNX18-REST-API-in-Script-Activities-ASpriggs.pdf) presented by [Adam Spriggs](https://github.com/wvpv) at Connections 2018
-* [Connections 2018 Review & AMPscript 101](https://vimeo.com/276135605) presented by [Eliot Harper](https://github.com/eliotharper), 21 June 2018
-* [WSProxy for SSJS](assets/WSProxyPresentationGregGifford-Aug18.mp4) presented by Greg Gifford, 22 August 2018
-* [Everything you always wanted to know about Social Studio](assets/SocialStudio_DevGroupPresentationFINAL-red.pdf) presented by Tamara Klink, 19 September 2018
-* [Marketing Cloud at Dreamforce](https://youtu.be/xzOVOEaxaR4) presented by Tina Rozul, Evelyn Cass, Vlad Silak and Eliot Harper, 17 October 2018
-* [Marketing Cloud Data Integration with Heroku and the Softtrends Marketing Connector](assets/GMT20181128-230333_SFMCDG-Onl_2560x1440.mp4) presented by David Baliles, November 2018
+* [Salesforce Interaction Studio](assets/GSFMCDG-Interaction-Studio-March-2019) presented by Lachlan Ross, March 2019
 * [Marketing Cloud Transactional Messaging API](assets/GMT20190228-150106_Transactio_1440x900.mp4) presented by Allen Hoem, February 2019
+* [Marketing Cloud Data Integration with Heroku and the Softtrends Marketing Connector](assets/GMT20181128-230333_SFMCDG-Onl_2560x1440.mp4) presented by David Baliles, November 2018
+* [Marketing Cloud at Dreamforce](https://youtu.be/xzOVOEaxaR4) presented by Tina Rozul, Evelyn Cass, Vlad Silak and Eliot Harper, 17 October 2018
+* [Everything you always wanted to know about Social Studio](assets/SocialStudio_DevGroupPresentationFINAL-red.pdf) presented by Tamara Klink, 19 September 2018
+* [WSProxy for SSJS](assets/WSProxyPresentationGregGifford-Aug18.mp4) presented by Greg Gifford, 22 August 2018
+* [Connections 2018 Review & AMPscript 101](https://vimeo.com/276135605) presented by [Eliot Harper](https://github.com/eliotharper), 21 June 2018
+* [REST API integration in Automation Studio using Script Activities](assets/CNX18-REST-API-in-Script-Activities-ASpriggs.pdf) presented by [Adam Spriggs](https://github.com/wvpv) at Connections 2018
+* [Build your own Journey Builder Activities](assets/CNX18-Build-your-own-Journey-Builder-Activities-PSapir.pdf) presented by [Pato Sapir](https://github.com/psapir) at Connections 2018
+* [Understanding Guide Template Language](assets/CNX18-Understanding-Guide-Template-Language-EHarper.pdf) presented by [Eliot Harper](https://github.com/eliotharper) at Connections 2018
+* [Preference Center Development Best Practices](assets/CNX18-Preference-Center-Development-Best-Practices-PSapir.pdf) presented by [Pato Sapir](https://github.com/psapir) at Connections 2018
+* [Email Content Architecture Strategies](assets/CNX18-Email-Content-Architecture-Strategies-ASpriggs.pdf) presented by [Adam Spriggs](https://github.com/wvpv) at Connections 2018
+* [Marketing Cloud Data Model Optimization Strategies](assets/CNX18-Data-Model-Optimization-Strategies-EHarper.pdf) presented by [Eliot Harper](https://github.com/eliotharper) at Connections 2018
+* [Content Block SDK](https://vimeo.com/265518897) presented by [Thomas Besluau](https://github.com/tbesluau), 19 April 2018
+* [Marketing Cloud APIs](https://vimeo.com/232789197) presented by [Eliot Harper](https://github.com/eliotharper), 23 August 2017 [[presentation](assets/Marketing-Cloud-APIs-EliotHarper-Aug17.pdf) &amp; [Postman Collection](assets/SFMCDGMeetupAug17.postman_collection.json)]
+* [Marketing Cloud Connector](https://vimeo.com/227015728) presented by Girish Krishnamurthy, 21 June 2017
+* [Advanced AMPscript](https://vimeo.com/219919658) presented by [Eliot Harper](https://github.com/eliotharper), 19 April 2017
+* [AMPScript and More](https://vimeo.com/219890966) presented by [Adam Spriggs](https://github.com/wvpv), 31 May 2017
 
 ## Awesome Lists
 
