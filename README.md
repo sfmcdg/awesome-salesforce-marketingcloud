@@ -12,6 +12,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 * [Resources](#resources)
 * [Testing](#testing)
 * [Tools](#tools)
+* [Quiz](#quiz)
 * [Contribute](#contribute)
 
 ## Salesforce Marketing Cloud Developer Group
@@ -74,6 +75,10 @@ Listed by event date, most recent first.
 * [Introduction to Marketing Cloud APIs](https://developer.salesforce.com/docs/atlas.en-us.mc-apis.meta/mc-apis/index-api.htm) - documentation for Marketing Cloud APIs
 * [Salesforce Marketing Cloud Developer Tools (Google Chrome Extension)](https://markus.codes/sfmc-chrome-devtools) - Google Chrome Extension that makes life easier for Salesforce Marketing Cloud users
 * [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
+
+## Quiz
+
+* [https://create.kahoot.it/share/marketing-cloud-january-2019-release-quiz/77bac48c-a6b1-432b-9efc-5fbcaf02508b](SFMC 2019 January Release Notes Quiz)
 
 ## Contribute
 
