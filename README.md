@@ -78,7 +78,7 @@ Listed by event date, most recent first.
 
 ## Quiz
 
-* [https://create.kahoot.it/share/marketing-cloud-january-2019-release-quiz/77bac48c-a6b1-432b-9efc-5fbcaf02508b](SFMC 2019 January Release Notes Quiz)
+* [SFMC 2019 January Release Notes Quiz](https://create.kahoot.it/share/marketing-cloud-january-2019-release-quiz/77bac48c-a6b1-432b-9efc-5fbcaf02508b)
 
 ## Contribute
 
