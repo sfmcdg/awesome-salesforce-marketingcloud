@@ -26,7 +26,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
-* [Salesforce Interaction Studio](https://sfmcdg.s3-website-ap-southeast-2.amazonaws.com/media/SFMCDG-Interaction-Studio-March-2019.mp4) presented by Lachlan Ross, March 2019 <span style="color:red; font-variant: small-caps;">NEW!</span>
+* [Salesforce Interaction Studio](https://sfmcdg.s3-website-ap-southeast-2.amazonaws.com/media/SFMCDG-Interaction-Studio-March-2019.mp4) presented by Lachlan Ross, March 2019 ![new!](assets/new-16.png)
 * [Marketing Cloud Transactional Messaging API](assets/GMT20190228-150106_Transactio_1440x900.mp4) presented by Allen Hoem, February 2019
 * [Marketing Cloud Data Integration with Heroku and the Softtrends Marketing Connector](assets/GMT20181128-230333_SFMCDG-Onl_2560x1440.mp4) presented by David Baliles, November 2018
 * [Marketing Cloud at Dreamforce](https://youtu.be/xzOVOEaxaR4) presented by Tina Rozul, Evelyn Cass, Vlad Silak and Eliot Harper, 17 October 2018
