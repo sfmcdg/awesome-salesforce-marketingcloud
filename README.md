@@ -88,6 +88,7 @@ Suggest a new group on [issues](https://github.com/sfmcdg/awesome-salesforce-mar
 
 ## Resources
 
+* [Marketing Cloud Docs](https://help.salesforce.com/articleView?id=mc_overview_welcome.htm&type=5)
 * [Introductions to AMPScript, SSJS and GTL](https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/index.htm) - Salesforce Marketing Cloud introduction to programmatic marketing content
 * [Marketing Cloud Connect](http://help.marketingcloud.com/en/documentation/integrated_products__crm_and_web_analytic_solutions/marketing_cloud_connector_v5/) - Salesforce Marketing Cloud connector documentation
 * [Get list of unsubscribes](https://salesforce.stackexchange.com/questions/97566/exacttarget-list-of-unsubscribes-this-year) - strategy for retrieving subscriber into data extension
