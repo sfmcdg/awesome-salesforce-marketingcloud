@@ -55,6 +55,7 @@ Listed by event date, most recent first.
 ## Learning
 
 * [Accelerator training conducted by SF](https://pages.mail.salesforce.com/cloud-services/event-calendar#&eventType=.acceleratorLive) - events hosted by Salesforce to help with learning the marketing cloud
+* [Data Extensions & Lists best practives](https://youtu.be/sCBIdXQC8_c) - Youtube about the basics of Data Extensions & Lists and some of the most common best practices.
 * [Marketing Cloud Youtube Channel](https://www.youtube.com/channel/UCJTUa_frgMCc9KN4cWc36aw)
 * [The AMPscript Guide](https://ampscript.guide) - the comprehensive reference manual for learning and using AMPscript
 * [Salesforce Marketing Cloud Consultant Notes](https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Consultant-Notes) - helpful SFMC consultant exam prep notes.
