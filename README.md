@@ -55,6 +55,7 @@ Listed by event date, most recent first.
 ## Learning
 
 * [Accelerator training conducted by SF](https://pages.mail.salesforce.com/cloud-services/event-calendar#&eventType=.acceleratorLive) - events hosted by Salesforce to help with learning the marketing cloud
+* [Marketing Cloud Youtube Channel](https://www.youtube.com/channel/UCJTUa_frgMCc9KN4cWc36aw)
 * [The AMPscript Guide](https://ampscript.guide) - the comprehensive reference manual for learning and using AMPscript
 * [Salesforce Marketing Cloud Consultant Notes](https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Consultant-Notes) - helpful SFMC consultant exam prep notes.
 * [Salesforce Marketing Cloud consultant certification summary notes](https://sfdcleo.wordpress.com/2018/04/29/marketing-cloud-consultant-certification-summary/) - Marketing Cloud Consultant certification summary notes
