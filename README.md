@@ -77,6 +77,7 @@ Getting involved and reaching out to people in Trailblazer Community Groups can 
 * [Kansas City, MO B2C Marketers Group](https://trailblazercommunitygroups.com/kansas-city-marketing-cloud-user-group/)
 * [London, UK B2C Marketers Group](https://trailblazercommunitygroups.com/london-uk-b2c-marketers-group/)
 * [Marketing Cloud Developers Group](https://trailblazercommunitygroups.com/melbourne-marketing-cloud-developers-group/)
+* [Munich, DE B2C Marketers Group](https://trailblazercommunitygroups.com/munich-de-b2c-marketers-group/)
 * [Paris, France B2C Marketers Group](https://trailblazercommunitygroups.com/paris-france-b2c-marketers-group/)
 * [Rotterdam, Netherlands B2C Marketers Group](https://trailblazercommunitygroups.com/rotterdam-netherlands-b2c-marketers-group/)
 * [San Francisco, CA B2C Marketers Group](https://trailblazercommunitygroups.com/san-francisco-ca-b2c-marketers-group/)
