@@ -9,6 +9,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
   * [Presentations from past SFMCDG meetups](#presentations-from-past-sfmcdg-meetups)
 * [Awesome Lists](#awesome-lists)
 * [Learning](#learning)
+* [Marketing Cloud Trailblazer Community Groups](#marketing-cloud-trailblazer-community-groups)
 * [Resources](#resources)
 * [Testing](#testing)
 * [Tools](#tools)
@@ -26,7 +27,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
-* [Interactive Email](https://youtu.be/yLgX4tvdvlk) presented by Matt Schmitter, March 2020 ![new!](assets/new-24.png)
+* [The when, where and how of using Marketing Cloud SSJS.mp4](assets/sfmcdg-the-when-where-and-how-of-using-marketing-cloud-ssjs.mp4) presented by Josh de Blank, April 2019  ![new!](assets/new-24.png)
 * [Salesforce Interaction Studio](https://s3-ap-southeast-2.amazonaws.com/sfmcdg/media/SFMCDG-Interaction-Studio-March-2019.mp4) presented by Lachlan Ross, March 2019
 * [Marketing Cloud Transactional Messaging API](assets/GMT20190228-150106_Transactio_1440x900.mp4) presented by Allen Hoem, February 2019
 * [Marketing Cloud Data Integration with Heroku and the Softtrends Marketing Connector](assets/GMT20181128-230333_SFMCDG-Onl_2560x1440.mp4) presented by David Baliles, November 2018
@@ -53,14 +54,43 @@ Listed by event date, most recent first.
 
 ## Learning
 
+* [Accelerator training conducted by SF](https://pages.mail.salesforce.com/cloud-services/event-calendar#&eventType=.acceleratorLive) - events hosted by Salesforce to help with learning the marketing cloud
+* [Data Extensions & Lists Best Practices](https://youtu.be/sCBIdXQC8_c) - Youtube about the basics of Data Extensions & Lists and some of the most common best practices.
+* [Marketing Cloud Youtube Channel](https://www.youtube.com/channel/UCJTUa_frgMCc9KN4cWc36aw)
 * [The AMPscript Guide](https://ampscript.guide) - the comprehensive reference manual for learning and using AMPscript
 * [Salesforce Marketing Cloud Consultant Notes](https://github.com/sfmcdg/Salesforce-Marketing-Cloud-Consultant-Notes) - helpful SFMC consultant exam prep notes.
 * [Salesforce Marketing Cloud consultant certification summary notes](https://sfdcleo.wordpress.com/2018/04/29/marketing-cloud-consultant-certification-summary/) - Marketing Cloud Consultant certification summary notes
 * [Salesforce on StackExchange (SFSE)](https://salesforce.stackexchange.com/questions/tagged/marketing-cloud) - great forum to get help with Salesforce Marketing Cloud question and answers - quick tip: include `[marketing-cloud]` in search search query
 * [Video tutorial showing how to create an email and then send email to a list](https://www.youtube.com/watch?v=halN8bpuar8) - in this video, we review how to send an email from Marketing Cloud, includes: create an email; create & import to a list; execute a test & live Send; and review email tracking.
 
+## Marketing Cloud Trailblazer Community Groups
+
+Getting involved and reaching out to people in Trailblazer Community Groups can be a great way of helping to learn marketing cloud.
+
+* [Bengaluru, IN B2C Marketers Group](https://trailblazercommunitygroups.com/bengaluru-in-b2c-marketers-group/)
+* [Berlin, DE B2C Marketers Group](https://trailblazercommunitygroups.com/berlin-de-b2c-marketers-group/)
+* [Brisbane, AU B2C Marketers Group](https://trailblazercommunitygroups.com/brisbane-au-b2c-marketers-group/)
+* [Brussels, BE B2C Marketers Group](https://trailblazercommunitygroups.com/brussels-be-b2c-marketers-group/)
+* [Cleveland, OH B2C Marketers Group](https://trailblazercommunitygroups.com/cleveland-oh-b2c-marketers-group/)
+* [Hyderabad, IN B2C Marketers Group](https://trailblazercommunitygroups.com/hyderabad-in-b2c-marketers-group/)
+* [Indianapolis, IN B2C Marketers Group](https://trailblazercommunitygroups.com/indianapolis-in-b2c-marketers-group/)
+* [Kansas City, MO B2C Marketers Group](https://trailblazercommunitygroups.com/kansas-city-marketing-cloud-user-group/)
+* [London, UK B2C Marketers Group](https://trailblazercommunitygroups.com/london-uk-b2c-marketers-group/)
+* [Marketing Cloud Developers Group](https://trailblazercommunitygroups.com/melbourne-marketing-cloud-developers-group/)
+* [Munich, DE B2C Marketers Group](https://trailblazercommunitygroups.com/munich-de-b2c-marketers-group/)
+* [Paris, France B2C Marketers Group](https://trailblazercommunitygroups.com/paris-france-b2c-marketers-group/)
+* [Rotterdam, Netherlands B2C Marketers Group](https://trailblazercommunitygroups.com/rotterdam-netherlands-b2c-marketers-group/)
+* [San Francisco, CA B2C Marketers Group](https://trailblazercommunitygroups.com/san-francisco-ca-b2c-marketers-group/)
+* [Sydney, AU B2C Marketers Group](https://trailblazercommunitygroups.com/sydney-au-b2c-marketers-group/)
+* [Toronto, CA B2C Marketers Group](https://trailblazercommunitygroups.com/toronto-ca-b2c-marketers-group/)
+* [Wellington, NZ B2C Marketers Group](https://trailblazercommunitygroups.com/wellington-nz-b2c-marketers-group/)
+* [Zurich, CH B2C Marketers Group](https://trailblazercommunitygroups.com/zurich-ch-b2c-marketers-group/)
+
+Suggest a new group on [issues](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/issues)
+
 ## Resources
 
+* [Marketing Cloud Docs](https://help.salesforce.com/articleView?id=mc_overview_welcome.htm&type=5)
 * [Introductions to AMPScript, SSJS and GTL](https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/index.htm) - Salesforce Marketing Cloud introduction to programmatic marketing content
 * [Marketing Cloud Connect](http://help.marketingcloud.com/en/documentation/integrated_products__crm_and_web_analytic_solutions/marketing_cloud_connector_v5/) - Salesforce Marketing Cloud connector documentation
 * [Get list of unsubscribes](https://salesforce.stackexchange.com/questions/97566/exacttarget-list-of-unsubscribes-this-year) - strategy for retrieving subscriber into data extension
