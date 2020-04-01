@@ -27,7 +27,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
-* [Interactive Email](https://youtu.be/yLgX4tvdvlk) presented by Matt Schmitter, March 2020 ![new!](assets/new-24.png)
+* [Interactive Email](https://youtu.be/oEJvrLtkvr0) presented by Matt Schmitter, March 2020 ![new!](assets/new-24.png)
 * [The when, where and how of using Marketing Cloud SSJS.mp4](assets/sfmcdg-the-when-where-and-how-of-using-marketing-cloud-ssjs.mp4) presented by Josh de Blank, April 2019
 * [Salesforce Interaction Studio](https://s3-ap-southeast-2.amazonaws.com/sfmcdg/media/SFMCDG-Interaction-Studio-March-2019.mp4) presented by Lachlan Ross, March 2019
 * [Marketing Cloud Transactional Messaging API](assets/GMT20190228-150106_Transactio_1440x900.mp4) presented by Allen Hoem, February 2019
