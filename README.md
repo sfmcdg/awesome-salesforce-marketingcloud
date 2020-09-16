@@ -27,7 +27,14 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
-* [Interactive Email](https://youtu.be/oEJvrLtkvr0) presented by Matt Schmitter, March 2020 ![new!](assets/new-24.png)
+* [Learn SSJS & SSJS Lib](https://youtu.be/oEJvrLtkvr0) presented by Eliot Harper & Sascha Huwald, September 2020 ![new!](assets/new-24.png)
+	- [SSJS Core Function example](https://gist.github.com/eliotharper/72c5037f7518e47c0d32169ed7ecf671)
+	- [SSJS Platform Function example](https://gist.github.com/eliotharper/65f2cf34ea8da01f980314f07ce22f4c)
+	- [WSProxy example](https://gist.github.com/eliotharper/3fbdf9432ca94271846ebdb98368ff48)
+	- [SSJS Lib on Github](https://github.com/email360/ssjs-lib)
+	- [email360 blog on SSJS Lib](https://blog.email360.io/getting-started.html)
+	- [SSJS Lib Documentation](https://docs.email360.io/)
+* [Interactive Email](https://youtu.be/oEJvrLtkvr0) presented by Matt Schmitter, March 2020
 * [The when, where and how of using Marketing Cloud SSJS.mp4](assets/sfmcdg-the-when-where-and-how-of-using-marketing-cloud-ssjs.mp4) presented by Josh de Blank, April 2019
 * [Salesforce Interaction Studio](https://s3-ap-southeast-2.amazonaws.com/sfmcdg/media/SFMCDG-Interaction-Studio-March-2019.mp4) presented by Lachlan Ross, March 2019
 * [Marketing Cloud Transactional Messaging API](assets/GMT20190228-150106_Transactio_1440x900.mp4) presented by Allen Hoem, February 2019
