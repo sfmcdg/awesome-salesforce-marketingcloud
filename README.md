@@ -28,9 +28,9 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 Listed by event date, most recent first.
 
 * [Learn SSJS & SSJS Lib](https://youtu.be/oEJvrLtkvr0) presented by Eliot Harper & Sascha Huwald, September 2020 ![new!](assets/new-24.png)
-	- [SSJS Core Function example](https://gist.github.com/eliotharper/72c5037f7518e47c0d32169ed7ecf671)
-	- [SSJS Platform Function example](https://gist.github.com/eliotharper/65f2cf34ea8da01f980314f07ce22f4c)
-	- [WSProxy example](https://gist.github.com/eliotharper/3fbdf9432ca94271846ebdb98368ff48)
+	- [SSJS Core Function code example](https://gist.github.com/eliotharper/72c5037f7518e47c0d32169ed7ecf671)
+	- [SSJS Platform Function code example](https://gist.github.com/eliotharper/65f2cf34ea8da01f980314f07ce22f4c)
+	- [WSProxy code example](https://gist.github.com/eliotharper/3fbdf9432ca94271846ebdb98368ff48)
 	- [SSJS Lib on Github](https://github.com/email360/ssjs-lib)
 	- [email360 blog on SSJS Lib](https://blog.email360.io/getting-started.html)
 	- [SSJS Lib Documentation](https://docs.email360.io/)
