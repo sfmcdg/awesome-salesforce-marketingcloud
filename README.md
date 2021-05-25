@@ -27,7 +27,8 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
-* [AMP for Email Deep Dive](https://youtu.be/jOK0QV3Furw) presented by Eliot Harper, February 2021 ![new!](assets/new-24.png)
+* [Rapid Deployment Tools for Salesforce Marketing Cloud](https://youtu.be/Fmp1Dx9yFpw) presented by Eliot Harper and Doug Midgley, May 2021 ![new!](assets/new-24.png)
+* [AMP for Email Deep Dive](https://youtu.be/jOK0QV3Furw) presented by Eliot Harper, February 2021
 * [Learn SSJS & SSJS Lib](https://youtu.be/yQkvdCoUXKs) presented by Eliot Harper & Sascha Huwald, September 2020
 	- [SSJS Core Function code example](https://gist.github.com/eliotharper/72c5037f7518e47c0d32169ed7ecf671)
 	- [SSJS Platform Function code example](https://gist.github.com/eliotharper/65f2cf34ea8da01f980314f07ce22f4c)
