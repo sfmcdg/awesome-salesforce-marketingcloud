@@ -27,7 +27,8 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
-* [Server-Side JavaScript (SSJS) 101](https://youtu.be/k-1sYfACFsM) presented by Eliot Harper, October 2021 ![new!](assets/new-24.png)
+* [Tips from the community for getting help with Salesforce Marketing Cloud](https://www.youtube.com/watch?v=1D56JD2ThJ8) presented by the community members, November 2021 ![new!](assets/new-24.png)
+* [Server-Side JavaScript (SSJS) 101](https://youtu.be/k-1sYfACFsM) presented by Eliot Harper, October 2021
 * [Rapid Deployment Tools for Salesforce Marketing Cloud](https://youtu.be/Fmp1Dx9yFpw) presented by Eliot Harper and Doug Midgley, May 2021
 * [AMP for Email Deep Dive](https://youtu.be/jOK0QV3Furw) presented by Eliot Harper, February 2021
 * [Learn SSJS & SSJS Lib](https://youtu.be/yQkvdCoUXKs) presented by Eliot Harper & Sascha Huwald, September 2020
