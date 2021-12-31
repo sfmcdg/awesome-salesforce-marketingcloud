@@ -11,13 +11,14 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 * [Learning Marketing Cloud](#learning-marketing-cloud)
 * [Links and Resources](#links-and-resources)
 * [Tools for working with Marketing Cloud](#tools-for-working-with-marketing-cloud)
+* [Slack Groups](#slack-groups)
+* [Blogs](#blogs)
 * [Contribute](#contribute)
 
 ## Salesforce Marketing Cloud Developer Group
 
 * [Salesforce Marketing Cloud Developers Group](https://trailblazercommunitygroups.com/salesforce-marketing-cloud-developers-group-virtual/) - Whether you're currently a Salesforce Marketing Cloud Developer or would like to be one, this group is for you. Learn techniques, best practices, tips and suggestions for leveraging Marketing Cloud APIs and AMPscript in campaigns and marketing automation workflows. You will learn how to best utilise all of Salesforce Marketing Cloud technologies from a developers perspective.
 * [Salesforce Marketing Cloud Developer LinkedIn Group](https://www.linkedin.com/groups/7059991) - shares from the community of interest to Salesforce Marketing Cloud developers.
-* [Salesforce Marketing Cloud Developers Group on Slack](http://sfmcdg.slack.com) - join us on slack to chat about upcoming events, ask questions and connect.
 * [@sfmcdg](https://twitter.com/sfmcdg) - follow us on twitter for Salesforce Marketing Cloud developer shares and updates.
 
 ## Presentations from past SFMCDG meetups
@@ -89,6 +90,18 @@ Listed by event date, most recent first.
 * [Accenture SFMC DevTools](https://github.com/Accenture/sfmc-devtools)
 * [Salesforce Marketing Cloud Developer Tools (Google Chrome Extension)](https://markus.codes/sfmc-chrome-devtools) - Google Chrome Extension that makes life easier for Salesforce Marketing Cloud users
 * [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
+
+## Slack Groups
+
+* [HowToSFMC](HowToSFMC.com)
+* [Salesforce Marketing Cloud Developers Group on Slack](http://sfmcdg.slack.com) - join us on slack to chat about upcoming events, ask questions and connect.
+
+## Blogs
+
+* [ampscript.xyz](https://ampscript.xyz/) by Ivan Razine.
+* [Automate Marketing Automation](https://mateuszdabrowski.pl/) by Mateusz Dąbrowski.
+* [gortonington](https://gortonington.com/) by Gregory Gortonington.
+* [sfmarketing.cloud](https://sfmarketing.cloud/) by Zuzanna Jarczynska
 
 ## Contribute
 
