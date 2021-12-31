@@ -93,7 +93,7 @@ Listed by event date, most recent first.
 
 ## Slack Groups
 
-* [HowToSFMC](HowToSFMC.com)
+* [HowToSFMC](https://www.howtosfmc.com/)
 * [Salesforce Marketing Cloud Developers Group on Slack](http://sfmcdg.slack.com) - join us on slack to chat about upcoming events, ask questions and connect.
 
 ## Blogs
