@@ -60,6 +60,7 @@ Listed by event date, most recent first.
 
 * [How to 'Hack' the Salesforce Marketing Cloud: Where to go for help](https://www.linkedin.com/pulse/how-hack-salesforce-marketing-cloud-where-go-help-guilda-hilaire/) - another awesome list of helpful Salesforce Marketing Cloud links
 * [How to Hack the Salesforce Marketing Cloud: The “10 Commandments” when it comes to migrating onto the Salesforce Marketing Cloud](https://www.linkedin.com/pulse/how-hack-salesforce-marketing-cloud-10-commandments-when-hilaire/) - tips for a Salesforce Marketing Cloud migration plan.
+* [{sfmc.curated}](https://sfmc-curated.com/) - big list of SFMC lists and links.
 
 ## Learning Marketing Cloud
 
