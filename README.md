@@ -26,6 +26,7 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 Listed by event date, most recent first.
 
 * [JSON Web Token (JWT) Support in Marketing Cloud](https://youtu.be/ij7H-AsYgJI) presented by Sascha Huwald, March 2022 ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
+ 
         - [Encode, decode and verify JWTs with SSJS in Marketing Cloud](https://www.linkedin.com/pulse/full-support-jwt-ssjs-sascha-huwald)
   	- [SSJS Lib on Github](https://github.com/email360/ssjs-lib)
 	- [email360 blog on SSJS Lib](https://blog.email360.io/getting-started.html)
