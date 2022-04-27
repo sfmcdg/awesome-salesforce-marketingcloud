@@ -109,6 +109,7 @@ Listed by event date, most recent first.
 * [ampscript.xyz](https://ampscript.xyz/) by Ivan Razine.
 * [Automate Marketing Automation](https://mateuszdabrowski.pl/) by Mateusz Dąbrowski.
 * [gortonington](https://gortonington.com/) by Gregory Gortonington.
+* [Salesforce Marketing Cloud & Marketing Automation](https://www.cameronrobert.com.au/) by Cameron Robert.
 * [sfmarketing.cloud](https://sfmarketing.cloud/) by Zuzanna Jarczynska
 
 ## Contribute
