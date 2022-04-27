@@ -25,7 +25,8 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
-* [JSON Web Token (JWT) Support in Marketing Cloud](https://youtu.be/ij7H-AsYgJI) presented by Sascha Huwald, March 2022 ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
+* [Automating SFMC book review](https://www.youtube.com/watch?v=Tm5RLSVpNSI&feature=youtu.be) presented by Greg Gifford and Jason Hanshaw, April 2022 ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
+* [JSON Web Token (JWT) Support in Marketing Cloud](https://youtu.be/ij7H-AsYgJI) presented by Sascha Huwald, March 2022
 	- [Presentation slides](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/raw/master/assets/JWT-Introduction-SaschaHuwald-Mar22.pdf)
 	- [Code examples](https://github.com/shdinx/SFMC-SamplePage/tree/master/sfmcdg/jwt)
 	- [LinkedIn Article: Encode, decode and verify JWTs with SSJS in Marketing Cloud](https://www.linkedin.com/pulse/full-support-jwt-ssjs-sascha-huwald)
