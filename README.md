@@ -97,6 +97,7 @@ Listed by event date, most recent first.
 ## Tools for working with Marketing Cloud
 
 * [Accenture SFMC DevTools](https://github.com/Accenture/sfmc-devtools)
+* [MCSnippets](https://mcsnippets.herokuapp.com/) - A cool little Heroku app for testing AmpScript and SSJS. MC Snippets allows Salesforce Marketing Cloud trailblazers to test, experiment and share AMPScript and Server Side Javascript snippets without having to login to a Salesforce Marketing Cloud account, create emails or data extensions!
 * [Salesforce Marketing Cloud Developer Tools (Google Chrome Extension)](https://markus.codes/sfmc-chrome-devtools) - Google Chrome Extension that makes life easier for Salesforce Marketing Cloud users
 * [SFMC Postman](https://github.com/salesforce-marketingcloud/postman) - collection of Salesforce Marketing Cloud APIs in [Postman](https://www.getpostman.com/)
 
