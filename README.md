@@ -114,4 +114,4 @@ Listed by event date, most recent first.
 
 ## Contribute
 
-Thank you to all the AWESOME marketing clouders who have shared with the community. **Do you have a link that you would like the community to know about?** Feel very welcome to contribute a comment with your fav marketing link.
+Thank you to all the AWESOME marketing clouders who have shared with the community. **Do you have a link that you would like the community to know about?** Feel very welcome to contribute a comment with your fav marketing cloud link.
