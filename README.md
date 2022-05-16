@@ -2,7 +2,6 @@
 
 A collection of helpful resources for working with Salesforce Marketing Cloud.
 
-
 ## Table of Contents
 
 * [About Salesforce Marketing Cloud Developer Group (SFMCDG)](#salesforce-marketing-cloud-developer-group)
