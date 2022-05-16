@@ -110,8 +110,7 @@ Listed by event date, most recent first.
 * [Salesforce Marketing Cloud Developers Group on Slack](http://sfmcdg.slack.com) - join us on slack to chat about upcoming events, ask questions and connect.
 
 ## Books
-* [Automating Salesforce Marketing Cloud](https://www.amazon.com/Automating-Salesforce-Marketing-Cloud-productivity/dp/1803237198/ref=sr_1_1?crid=3KK4JYOVECDA0&keywords=automating+salesforce+marketing+cloud&qid=1652319173&sprefix=automating+%2Caps%2C91&sr=8-1) - Learn how to reap all the benefits of the SFMC platform and increase your productivity with the help of real-world examples
-* [ampscript.xyz](https://ampscript.xyz/) by Ivan Razine.
+* [Automating Salesforce Marketing Cloud](https://www.amazon.com/Automating-Salesforce-Marketing-Cloud-productivity/dp/1803237198/ref=sr_1_1?crid=3KK4JYOVECDA0&keywords=automating+salesforce+marketing+cloud&qid=1652319173&sprefix=automating+%2Caps%2C91&sr=8-1) - Learn how to reap all the benefits of the SFMC platform and increase your productivity with the help of real-world examples.
 
 ## Blogs
 
