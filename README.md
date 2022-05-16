@@ -2,6 +2,8 @@
 
 A collection of helpful resources for working with Salesforce Marketing Cloud.
 
+First, thank you to all the AWESOME marketing clouders for helping to share Salesforce Marketing Cloud. Do you have a link that you would like the community to know about? If you do then feel very welcome to share a [comment](#contributes).
+
 ## Table of Contents
 
 * [About Salesforce Marketing Cloud Developer Group (SFMCDG)](#salesforce-marketing-cloud-developer-group)
@@ -114,4 +116,10 @@ Listed by event date, most recent first.
 
 ## Contribute
 
-Make a [pull request](https://github.com/sfmcdg/awesome-salesforce-marketingcloud) or suggestion on [issues](https://github.com/sfmcdg/awesome-salesforce-marketingcloud/issues).
+Do you have a link that you would like the community to know about?
+
+Feel very welcome to share a comment.
+
+<script defer src="https://comments.consideration.cloud/js/commento.js"
+data-page-id="/"></script>
+<div id="commento"></div>
