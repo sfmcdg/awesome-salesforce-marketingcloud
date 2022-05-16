@@ -96,7 +96,7 @@ Listed by event date, most recent first.
 
 ## Tools for working with Marketing Cloud
 
-* [Accenture SFMC DevTools](https://github.com/Accenture/sfmc-devtools)
+* [Accenture SFMC DevTools](https://github.com/Accenture/sfmc-devtools) - SFMC dev tool to fast-track your developer and devops engineer time by allowing them to programmatically copy-paste / deploy changes and work offline.
 * [BLDR](https://www.npmjs.com/package/@basetime/bldr-sfmc) - BLDR is a CLI tool that allows users to pull assets from SFMC to their local machine, add them to any GIT provider for version control, and push them back into SFMC all from the command line.
 * [MCSnippets](https://mcsnippets.herokuapp.com/) - A cool little Heroku app for testing AmpScript and SSJS. MC Snippets allows Salesforce Marketing Cloud trailblazers to test, experiment and share AMPScript and Server Side Javascript snippets without having to login to a Salesforce Marketing Cloud account, create emails or data extensions!
 * [Salesforce Marketing Cloud Developer Tools (Google Chrome Extension)](https://markus.codes/sfmc-chrome-devtools) - Google Chrome Extension that makes life easier for Salesforce Marketing Cloud users
