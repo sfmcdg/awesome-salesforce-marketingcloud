@@ -26,7 +26,8 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
-* [Learn how to make Salesforce Marketing Cloud email marketing workflows easier from the CLI with BLDR](https://www.youtube.com/watch?v=JBSwAUOSjWU) presented by  Tony Zups, June 2022 ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
+* [Salesforce Marketing Cloud Summer '22 Release Developer Highlights](https://youtu.be/-m25M9xBwPg) presented by Kyle Heldman and Rob Everetts, June 2022 ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
+* [Learn how to make Salesforce Marketing Cloud email marketing workflows easier from the CLI with BLDR](https://www.youtube.com/watch?v=JBSwAUOSjWU) presented by  Tony Zups, June 2022
 	- [BLDR-SFMC on npm](https://www.npmjs.com/package/@basetime/bldr-sfmc)
 	- [BLDR-SFMC on GitHub](https://github.com/basetime/bldr-sfmc)
 * [Automating SFMC book review](https://www.youtube.com/watch?v=Tm5RLSVpNSI&feature=youtu.be) presented by Greg Gifford and Jason Hanshaw, April 2022
