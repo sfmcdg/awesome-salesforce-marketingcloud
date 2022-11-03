@@ -26,7 +26,16 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
-* [Salesforce Marketing Cloud Summer '22 Release Developer Highlights](https://youtu.be/-m25M9xBwPg) presented by Kyle Heldman and Rob Everetts, June 2022 ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
+* [Using Marketing Cloud Intelligence Dataroma to help know your customer better](https://youtu.be/rcb70KM4YwU) ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
+* [Connected Consumer Experience through MuleSoft and Salesforce Marketing Cloud](https://youtu.be/URzRUj-05hs)
+* [De-duplicate records using a SQL query workshop](https://youtu.be/Zx9pzzZ7HBc) Links mentioned include:
+   - [How to de-duplicate records using a SQL query](https://www.influencer.tips/how-to-de-duplicate-records-using-a-sql-query/)
+* [SFMCDG 2022 - how to do real time personalisation with Marketing Cloud Interaction Studio - 1 of 2](https://youtu.be/cZQBAxO5yzM)
+* [SFMCDG - episode 2022 July - together lets make something awesome](https://youtu.be/MZYC1fR2bU8) - The SFMCDG recipe hackathons are opportunity for members to contribute towards helping to make some awesome open source SFMC solutions. Links mentioned include:
+	- [rafal-wolsztyniak/Chartformer-Library](https://github.com/rafal-wolsztyniak/Chartformer-Library)
+	- [SFMC Companion Chrome Extension Launch Trailer](https://youtu.be/wLssRhH_SE4)
+	- [bldr](https://bldr.basetime.io/)
+* [Salesforce Marketing Cloud Summer '22 Release Developer Highlights](https://youtu.be/-m25M9xBwPg) presented by Kyle Heldman and Rob Everetts, June 2022
 * [Learn how to make Salesforce Marketing Cloud email marketing workflows easier from the CLI with BLDR](https://www.youtube.com/watch?v=JBSwAUOSjWU) presented by  Tony Zups, June 2022
 	- [BLDR-SFMC on npm](https://www.npmjs.com/package/@basetime/bldr-sfmc)
 	- [BLDR-SFMC on GitHub](https://github.com/basetime/bldr-sfmc)
