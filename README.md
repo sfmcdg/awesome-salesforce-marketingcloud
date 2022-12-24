@@ -26,6 +26,13 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 Listed by event date, most recent first.
 
+<div class="d-flex flex-row bd-highlight mb-3">
+  <div class="p-2 bd-highlight"><div class="col"><div align="left"><a href="https://www.youtube.com/watch?v=rcb70KM4YwU"><img src="https://img.youtube.com/vi/rcb70KM4YwU/0.jpg" style="width:100%;"></a></div></div></div>
+  <div class="p-2 bd-highlight"><div class="col"><div align="left"><a href="https://www.youtube.com/watch?v=URzRUj-05hs"><img src="https://img.youtube.com/vi/URzRUj-05hs/0.jpg" style="width:100%;"></a></div></div></div>
+  <div class="p-2 bd-highlight"><div class="col"><div align="left"><a href="https://www.youtube.com/watch?v=Zx9pzzZ7HBc"><img src="https://img.youtube.com/vi/Zx9pzzZ7HBc/0.jpg" style="width:100%;"></a></div></div></div>
+  <div class="p-2 bd-highlight"><div class="col"><div align="left"><a href="https://www.youtube.com/watch?v=cZQBAxO5yzM"><img src="https://img.youtube.com/vi/cZQBAxO5yzM/0.jpg" style="width:100%;"></a></div></div></div>
+</div>
+
 * [Using Marketing Cloud Intelligence Dataroma to help know your customer better](https://youtu.be/rcb70KM4YwU) ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
 * [Connected Consumer Experience through MuleSoft and Salesforce Marketing Cloud](https://youtu.be/URzRUj-05hs)
 * [De-duplicate records using a SQL query workshop](https://youtu.be/Zx9pzzZ7HBc) Links mentioned include:
@@ -135,4 +142,4 @@ Listed by event date, most recent first.
 
 ## Contribute
 
-Thank you to all the AWESOME marketing clouders who have shared with the community. **Do you have a link that you would like the community to know about?** Feel very welcome to contribute a comment with your fav marketing cloud link.
+Thank you to all the AWESOME marketing cloud people who have shared with the community. **Do you have a link that you would like the community to know about?** Feel very welcome to email suggestions to marketing-cloud-devs@trailblazercgl.com
