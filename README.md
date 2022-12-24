@@ -24,18 +24,44 @@ A collection of helpful resources for working with Salesforce Marketing Cloud.
 
 ## Presentations from past SFMCDG meetups
 
+### Transferable skills for getting started with SFMC Workshops
+
+* [Transferable skills for getting started with SFMC Workshop #2](https://youtu.be/HuGUQlI3P_A) with Gregory Gifford, Chaitanya Nandula, Matt Cameron Lakshmi Sistla.
+* [Transferable skills for getting started with SFMC Workshop #1](https://youtu.be/NrGWNy-4ohQ) - watch for help with getting started with SFMC from Cameron Roberts, Lakshmi Sistla and Matt Cameron.
+
+### Marketing Cloud Minutes
+
+* [Marketing Cloud Minute with Alex Marquez](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=6s)
+* [Marketing Cloud Minute with Angel Knong](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=66s)
+* [Marketing Cloud Minute with Chris Charalambous](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=130s)
+* [Marketing Cloud Minute with Grace Pribudi](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=185s)
+* [Marketing Cloud Minute with Himanshu Jain](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=238s)
+* [Marketing Cloud Minute with Josh de Blank](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=321s)
+* [Marketing Cloud Minute with Kei Lee](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=470s)
+* [Marketing Cloud Minute with Kesshab Pradan](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=427s)
+* [Marketing Cloud Minute with Lakshmi Sistla](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=531s)
+* [Marketing Cloud Minute with Luke Snelgar](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=552s)
+* [Marketing Cloud Minute with Marloes Sjerps](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=617s)
+* [Marketing Cloud Minute with Matt Cameron](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=684s)
+* [Marketing Cloud Minute with Olympia Newman](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=734s)
+* [Marketing Cloud Minute with Piyali Biswas](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=842s)
+* [Marketing Cloud Minute with Vladimir Silak](https://www.youtube.com/watch?v=1D56JD2ThJ8&t=933s)
+
+### SFMC deep dives
+
 Listed by event date, most recent first.
 
-* [Using Marketing Cloud Intelligence Dataroma to help know your customer better](https://youtu.be/rcb70KM4YwU) ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
-* [Connected Consumer Experience through MuleSoft and Salesforce Marketing Cloud](https://youtu.be/URzRUj-05hs)
-* [De-duplicate records using a SQL query workshop](https://youtu.be/Zx9pzzZ7HBc) Links mentioned include:
-   - [How to de-duplicate records using a SQL query](https://www.influencer.tips/how-to-de-duplicate-records-using-a-sql-query/)
-* [SFMCDG 2022 - how to do real time personalisation with Marketing Cloud Interaction Studio - 1 of 2](https://youtu.be/cZQBAxO5yzM)
+* [How to implement your first SFMC MCI (Dataroma) user story workshop](https://youtu.be/ozlxCledkIY) with Arthur Backouche. ![newest!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
+* [Personalising with Marketing Cloud Personalisation (Interaction Studio) part 2 - the case study](https://youtu.be/j1oK5trgSKo) with Chris Charalambous, Josefin Hellqvist, George Lahoud and Cathie Huang.
+* [Using Marketing Cloud Intelligence (Dataroma) to help know your customer better](https://youtu.be/rcb70KM4YwU) with Arthur Backouche.
+* [Connected Consumer Experience through MuleSoft and Salesforce Marketing Cloud](https://youtu.be/URzRUj-05hs) with with Joy Sabal, Nathan Blaga and Matt Cameron.
+* [De-duplicate records using a SQL query workshop](https://youtu.be/Zx9pzzZ7HBc) with Matt Cameron. Links mentioned include [How to de-duplicate records using a SQL query](https://www.influencer.tips/how-to-de-duplicate-records-using-a-sql-query/)
+* [SFMCDG 2022 - how to do real time personalisation with Marketing Cloud Interaction Studio - 1 of 2](https://youtu.be/cZQBAxO5yzM) with Chris Charalambous and Josefin Hellqvist.
 * [SFMCDG - episode 2022 July - together lets make something awesome](https://youtu.be/MZYC1fR2bU8) - The SFMCDG recipe hackathons are opportunity for members to contribute towards helping to make some awesome open source SFMC solutions. Links mentioned include:
-	- [rafal-wolsztyniak/Chartformer-Library](https://github.com/rafal-wolsztyniak/Chartformer-Library)
-	- [SFMC Companion Chrome Extension Launch Trailer](https://youtu.be/wLssRhH_SE4)
-	- [bldr](https://bldr.basetime.io/)
-* [Salesforce Marketing Cloud Summer '22 Release Developer Highlights](https://youtu.be/-m25M9xBwPg) presented by Kyle Heldman and Rob Everetts, June 2022
+	- [rafal-wolsztyniak/Chartformer-Library](https://github.com/rafal-wolsztyniak/Chartformer-Library) with Rafał Wolsztyniak.
+	- [SFMC Companion Chrome Extension Launch Trailer](https://youtu.be/wLssRhH_SE4) with Cameron Roberts
+	- [bldr](https://bldr.basetime.io/) with Anthony Zupancic.
+* [Salesforce Marketing Cloud Summer '22 Release Developer Highlights](https://youtu.be/-m25M9xBwPg) presented by Kyle Heldman and Rob Everetts, June 2022.
 * [Learn how to make Salesforce Marketing Cloud email marketing workflows easier from the CLI with BLDR](https://www.youtube.com/watch?v=JBSwAUOSjWU) presented by  Tony Zups, June 2022
 	- [BLDR-SFMC on npm](https://www.npmjs.com/package/@basetime/bldr-sfmc)
 	- [BLDR-SFMC on GitHub](https://github.com/basetime/bldr-sfmc)
@@ -46,7 +72,6 @@ Listed by event date, most recent first.
 	- [LinkedIn Article: Encode, decode and verify JWTs with SSJS in Marketing Cloud](https://www.linkedin.com/pulse/full-support-jwt-ssjs-sascha-huwald)
   	- [SSJS Lib on Github](https://github.com/email360/ssjs-lib)
 * [3 things I bet you didn't know you could do with AMPscript & SSJS](https://youtu.be/nhczVA_fJt4) presented by Eliot Harper, Jarrett Bush & Chris Charalambous, February 2022
-* [Tips from the community for getting help with Salesforce Marketing Cloud](https://www.youtube.com/watch?v=1D56JD2ThJ8) presented by the community members, November 2021
 * [Server-Side JavaScript (SSJS) 101](https://youtu.be/k-1sYfACFsM) presented by Eliot Harper, October 2021
 * [Rapid Deployment Tools for Salesforce Marketing Cloud](https://youtu.be/Fmp1Dx9yFpw) presented by Eliot Harper and Doug Midgley, May 2021
 * [AMP for Email Deep Dive](https://youtu.be/jOK0QV3Furw) presented by Eliot Harper, February 2021
