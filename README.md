@@ -51,7 +51,7 @@
 
 Listed by event date, most recent first.
 
-* [What Developers Need To Know About Salesforce Data Cloud](https://youtu.be/SUvDqPcfi_Q) presented by Eliot Harper, February 2023 ![new!](https://raw.githubusercontent.com/sfmcdg/awesome-salesforce-marketingcloud/master/assets/new-24.png)
+* [What Developers Need To Know About Salesforce Data Cloud](https://youtu.be/SUvDqPcfi_Q) presented by Eliot Harper, February 2023
 * [How to implement your first SFMC MCI (Dataroma) user story workshop](https://youtu.be/ozlxCledkIY) with Arthur Backouche.
 * [Personalising with Marketing Cloud Personalisation (Interaction Studio) part 2 - the case study](https://youtu.be/j1oK5trgSKo) with Chris Charalambous, Josefin Hellqvist, George Lahoud and Cathie Huang.
 * [Using Marketing Cloud Intelligence (Dataroma) to help know your customer better](https://youtu.be/rcb70KM4YwU) with Arthur Backouche.
