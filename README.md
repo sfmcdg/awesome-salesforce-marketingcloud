@@ -161,4 +161,4 @@ Listed by event date, most recent first.
 
 ## Contribute
 
-Thank you to all the AWESOME marketing cloud people who have shared with the community. **Do you have a link that you would like the community to know about?** Feel very welcome to email suggestions to marketing-cloud-devs@trailblazercgl.com
+Thank you to all the AWESOME marketing cloud people who have shared with the community. **Do you have a link that you would like the community to know about?** Feel very welcome to share a suggestion here or to marketing-cloud-devs@trailblazercgl.com
